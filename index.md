@@ -3,8 +3,26 @@ title: Home
 layout: home
 ---
 
-# Welcome to Hack the Hood: Build Program
+# Welcome to Hack the Hood: Build!
 Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, and additional resources here.
+
+<table>
+  <tr>
+    <th>Week 1 Announcements</th>
+    <td> Assignments Due: </td>
+      <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+      </ul>
+    <td> Reminders: </td>
+      <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+      </ul>
+  </tr>
+</table>
 
 ---
 
@@ -98,7 +116,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
   </tr>
   <tr>
     <td>Thurs 10/31 or Sat 11/2:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> **NO TIGER TEAMS! Happy Halloween!** </td>
+    <td><span class="label label-yellow">TIGER TEAM</span> <b>NO TIGER TEAMS! Happy Halloween!</b> </td>
     <td></td>
   </tr>
 </table>
@@ -126,7 +144,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
 <table>
   <tr>
     <td>Mon 11/11:</td>
-    <td><span class="label label-green">LECTURE</span> **FIELD TRIP! NO LECTURE** </td>
+    <td><span class="label label-green">LECTURE</span> <b>FIELD TRIP! NO LECTURE!</b> </td>
     <td></td>
   </tr>
   <tr>
