@@ -6,23 +6,14 @@ layout: home
 # Welcome to Hack the Hood: Build!
 Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, and additional resources here.
 
-<table>
-  <tr>
-    <th>Week 1 Announcements</th>
-    <td> Assignments Due: </td>
-      <ul>
-        <li>First item</li>
-        <li>Second item</li>
-        <li>Third item</li>
-      </ul>
-    <td> Reminders: </td>
-      <ul>
-        <li>First item</li>
-        <li>Second item</li>
-        <li>Third item</li>
-      </ul>
-  </tr>
-</table>
+## Week 1 Announcements
+### Assignments Due:
+- First Assignment
+- Second Assignment
+- Third Assignment
+### Reminders:
+- First Reminder
+- Second Reminder
 
 ---
 
