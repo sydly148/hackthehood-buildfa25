@@ -6,3 +6,14 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+just_the_docs:
+  palette:
+    primary: "#005b96" 
+    accent: "#3b82f6" 
+    text: "#333333"
+
+just_the_docs:
+  font:
+    heading: "Roboto, sans-serif"
+    body: "Open Sans, sans-serif"
