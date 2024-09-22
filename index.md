@@ -11,15 +11,15 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
     <th>Week 1 Announcements</th>
     <td> Assignments Due: </td>
       <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
       </ul>
     <td> Reminders: </td>
       <ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
       </ul>
   </tr>
 </table>
