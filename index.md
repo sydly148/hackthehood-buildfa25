@@ -17,7 +17,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)
 
 <button id="dark-mode-toggle">Toggle Dark Mode</button>
-<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/darkmode.js' | relative_url }}"></script>
 
 ## Week 1 Announcements
 ### Assignments Due:
