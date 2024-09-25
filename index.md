@@ -16,22 +16,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
 
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)
 
-<button id="theme-toggle" class="btn btn-primary" onclick="toggleTheme()">Toggle Dark Mode</button>
-
-<script>
-  const toggleTheme = () => {
-    const currentTheme = document.documentElement.getAttribute("data-theme");
-    const targetTheme = currentTheme === "dark" ? "light" : "dark";
-    document.documentElement.setAttribute("data-theme", targetTheme);
-    localStorage.setItem("theme", targetTheme); // Save the user preference
-  };
-
-  // Apply theme from localStorage on page load
-  document.addEventListener("DOMContentLoaded", () => {
-    const savedTheme = localStorage.getItem("theme") || "light"; // Default to light mode
-    document.documentElement.setAttribute("data-theme", savedTheme);
-  });
-</script>
+<button id="dark-mode-toggle">Toggle Dark Mode</button>
+<script src="{{ '/assets/js/script.js' | relative_url }}"></script>
 
 ## Week 1 Announcements
 ### Assignments Due:
