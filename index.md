@@ -7,9 +7,8 @@ nav_order: 1
 # Welcome to Hack the Hood: Build!
 [Google Classroom](https://just-the-docs.com){: .btn .btn-blue }
 [Lecture Zoom](https://just-the-docs.com){: .btn .btn-purple }
-[Parker's Tiger Teams](https://just-the-docs.com){: .btn .btn-red }
-[Sydney's Tiger Teams](https://just-the-docs.com){: .btn .btn-yellow }
-[Slack](https://just-the-docs.com){: .btn .btn-green }
+[Parker's Tiger Teams](https://just-the-docs.com){: .btn .btn-green }
+[Sydney's Tiger Teams](https://just-the-docs.com){: .btn .btn-green }
 add proper links to all the buttons (should be the same as the ones in the resources tab)
 
 Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, and additional resources here.
