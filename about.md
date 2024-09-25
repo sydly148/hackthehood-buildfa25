@@ -69,6 +69,7 @@ Members will begin developing a portfolio of coding algorithms and data analytic
   </tr>    
 </table>
 
+
 # Hack the Hood &amp; Coding Integrity
 The code you write should be your own original work that reflects your understanding of the concepts we discuss together. While computer science is a collaborative discipline, you should avoid just copying and pasting work you find from other sources. Programming is all about curiosity and exploration. You should always aim to come up with original, unique code. If you are studying reliable resources, read the code carefully, understand the logic/behavior behind it and then type your own code without copying and pasting. This way, you will retain the information much better and it may be easier for you to solve similar coding problems that you may see thereafter. Your understanding of the topics is far more important to us than just the completion of the assignment. Like academic writing, your code can incorporate the ideas of others but should reflect your own approach to solving the problem. 
 
