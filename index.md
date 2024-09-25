@@ -9,11 +9,29 @@ nav_order: 1
 [Lecture Zoom](https://just-the-docs.com){: .btn .btn-purple }
 [Parker's Tiger Teams](https://just-the-docs.com){: .btn .btn-green }
 [Sydney's Tiger Teams](https://just-the-docs.com){: .btn .btn-green }
+
 add proper links to all the buttons (should be the same as the ones in the resources tab)
 
 Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, and additional resources here.
 
 Instructors: Parker Broadnax (parker@hackthehood.org) & Sydney Ly (sydney@hackthehood.org)
+
+<button id="theme-toggle" class="btn btn-primary" onclick="toggleTheme()">Toggle Dark Mode</button>
+
+<script>
+  const toggleTheme = () => {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    const targetTheme = currentTheme === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", targetTheme);
+    localStorage.setItem("theme", targetTheme); // Save the user preference
+  };
+
+  // Apply theme from localStorage on page load
+  document.addEventListener("DOMContentLoaded", () => {
+    const savedTheme = localStorage.getItem("theme") || "light"; // Default to light mode
+    document.documentElement.setAttribute("data-theme", savedTheme);
+  });
+</script>
 
 ## Week 1 Announcements
 ### Assignments Due:
