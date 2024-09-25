@@ -205,7 +205,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
     <td>Rubric, Slides</td>
   </tr>
   <tr>
-    <td>Fri 11/20:</td>
+    <td>Fri 12/20:</td>
     <td> Happy Graduation! </td>
     <td></td>
   </tr>
