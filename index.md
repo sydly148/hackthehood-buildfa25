@@ -14,7 +14,7 @@ add proper links to all the buttons (should be the same as the ones in the resou
 
 Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, and additional resources here.
 
-Instructors: Parker Broadnax (parker@hackthehood.org) & Sydney Ly (sydney@hackthehood.org)
+Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)
 
 <button id="theme-toggle" class="btn btn-primary" onclick="toggleTheme()">Toggle Dark Mode</button>
 
