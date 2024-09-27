@@ -9,7 +9,7 @@ Include here all links for resources (including pandas cheatsheet and any other 
 <table>
   <tr>
     <td>Zoom Meeting Link</td>
-    <td><a href="(https://us06web.zoom.us/j/3435754269)">Zoom Link</a></td>
+    <td><a href="https://us06web.zoom.us/j/3435754269">Zoom Link</a></td>
   </tr>
   <tr>
     <td>Tiger Teams Zoom Links</td>
