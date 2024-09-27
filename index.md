@@ -12,7 +12,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2024. W
 
 Lectures: Mondays (4:30 pm-7:00 pm) and Wednesdays (4:00 pm-7:30 pm)  
 Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00 pm-7:00 pm), Purple (6:00 pm-8:00 pm)  
-Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange(2:00 pm-4:00 pm)  
+Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
 ## Week 1 Announcements
