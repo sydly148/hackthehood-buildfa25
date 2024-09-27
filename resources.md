@@ -8,16 +8,16 @@ Include here all links for resources (including pandas cheatsheet and any other 
 
 <table>
   <tr>
-    <td>Lecture Zoom Link</td>
-    <td>put zoom link here</td>
+    <td>Zoom Meeting Link</td>
+    <td>[https://us06web.zoom.us/j/3435754269](https://us06web.zoom.us/j/3435754269)</td>
   </tr>
   <tr>
     <td>Tiger Teams Zoom Links</td>
-    <td>Parker (Red, Green, Yellow, Gray): insert zoom link here <br> Sydney (Blue, Purple, Pink, Orange): insert zoom link here</td>
+    <td>Parker (Red, Green, Yellow, Gray): i think we need to use the instructor one <br> Sydney (Blue, Purple, Pink, Orange): our zoom accounts are limited to 40 minutes</td>
   </tr>
   <tr>
     <td>Google Classroom</td>
-    <td>google classroom link here</td>
+    <td>[https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0)</td>
   </tr>
   <tr>
     <td>Colab</td>
@@ -25,24 +25,21 @@ Include here all links for resources (including pandas cheatsheet and any other 
   </tr>
   <tr>
     <td>Curriculum Map</td>
-    <td>curriculum map link here</td>
+    <td>[https://docs.google.com/spreadsheets/d/11Aq0QawP034qL_rAGsC7Lnye3R1vRy67ZQze8zohf3w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11Aq0QawP034qL_rAGsC7Lnye3R1vRy67ZQze8zohf3w/edit?usp=sharing)</td>
   </tr>
   <tr>
     <td>Program Overview</td>
-    <td>program overview link here</td>
+    <td>[https://sites.google.com/hackthehood.org/hthcurriculumresources/build-program-overview](https://sites.google.com/hackthehood.org/hthcurriculumresources/build-program-overview)</td>
   </tr>
 </table>
 
-## Pandas Resources
-links to stuffs here
-
 ## Python Resources
-links to stuffs here
+[Python Tutorial](https://docs.python.org/3/tutorial/index.html): A fairly comprehensive tutorial to refresh and reteach yourself Python.
+[NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy): A good refresher for NumPy.
+[Python 101](https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb): A notebook that demonstrates a lot of Python functionality with limited explanation.
+[Matplotlib Tutorial](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html): Short tutorial that provides an overview of basic Matplotlib plotting utilities.
 
-## Debugging Resources
-links to stuffs here
-
-## other resources? idk
-links to stuffs here
-
-Reminder for myself to take some resources from the ds100.org website
+## Pandas Resources
+[Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+[Learn Pandas](https://nbviewer.org/url/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb): A set of lessons that provides an overview of the Pandas library.
+[Pandas Cheatsheet](https://github.com/HtH-HacktheHood/laney-build-2022/blob/main/data-analysis/Python-Pandas-Cheat-Sheet.png)
