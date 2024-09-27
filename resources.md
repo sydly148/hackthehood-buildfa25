@@ -9,7 +9,7 @@ Include here all links for resources (including pandas cheatsheet and any other 
 <table>
   <tr>
     <td>Zoom Meeting Link</td>
-    <td>[https://us06web.zoom.us/j/3435754269](https://us06web.zoom.us/j/3435754269)</td>
+    <td>[Zoom Link](https://us06web.zoom.us/j/3435754269)</td>
   </tr>
   <tr>
     <td>Tiger Teams Zoom Links</td>
@@ -17,7 +17,7 @@ Include here all links for resources (including pandas cheatsheet and any other 
   </tr>
   <tr>
     <td>Google Classroom</td>
-    <td>[https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0)</td>
+    <td>[Google Classroom](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0)</td>
   </tr>
   <tr>
     <td>Colab</td>
@@ -25,11 +25,11 @@ Include here all links for resources (including pandas cheatsheet and any other 
   </tr>
   <tr>
     <td>Curriculum Map</td>
-    <td>[https://docs.google.com/spreadsheets/d/11Aq0QawP034qL_rAGsC7Lnye3R1vRy67ZQze8zohf3w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11Aq0QawP034qL_rAGsC7Lnye3R1vRy67ZQze8zohf3w/edit?usp=sharing)</td>
+    <td>[Build Fall 2024 Curriculum Map](https://docs.google.com/spreadsheets/d/11Aq0QawP034qL_rAGsC7Lnye3R1vRy67ZQze8zohf3w/edit?usp=sharing)</td>
   </tr>
   <tr>
     <td>Program Overview</td>
-    <td>[https://sites.google.com/hackthehood.org/hthcurriculumresources/build-program-overview](https://sites.google.com/hackthehood.org/hthcurriculumresources/build-program-overview)</td>
+    <td>[Build Program Overview](https://sites.google.com/hackthehood.org/hthcurriculumresources/build-program-overview)</td>
   </tr>
 </table>
 
