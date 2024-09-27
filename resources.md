@@ -34,12 +34,12 @@ Include here all links for resources (including pandas cheatsheet and any other 
 </table>
 
 ## Python Resources
-[Python Tutorial](https://docs.python.org/3/tutorial/index.html): A fairly comprehensive tutorial to refresh and reteach yourself Python.
-[NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy): A good refresher for NumPy.
-[Python 101](https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb): A notebook that demonstrates a lot of Python functionality with limited explanation.
-[Matplotlib Tutorial](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html): Short tutorial that provides an overview of basic Matplotlib plotting utilities.
+[Python Tutorial](https://docs.python.org/3/tutorial/index.html): A fairly comprehensive tutorial to refresh and reteach yourself Python.  
+[NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy): A good refresher for NumPy.  
+[Python 101](https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb): A notebook that demonstrates a lot of Python functionality with limited explanation.  
+[Matplotlib Tutorial](https://matplotlib.org/2.0.2/users/pyplot_tutorial.html): Short tutorial that provides an overview of basic Matplotlib plotting utilities.  
 
 ## Pandas Resources
-[Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
-[Learn Pandas](https://nbviewer.org/url/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb): A set of lessons that provides an overview of the Pandas library.
-[Pandas Cheatsheet](https://github.com/HtH-HacktheHood/laney-build-2022/blob/main/data-analysis/Python-Pandas-Cheat-Sheet.png)
+[Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)  
+[Learn Pandas](https://nbviewer.org/url/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb): A set of lessons that provides an overview of the Pandas library.  
+[Pandas Cheatsheet](https://github.com/HtH-HacktheHood/laney-build-2022/blob/main/data-analysis/Python-Pandas-Cheat-Sheet.png)  
