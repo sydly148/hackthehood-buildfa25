@@ -21,6 +21,11 @@ Participants will hear from minorities working in tech during weekly career pane
 ## Practical Skill Demonstration
 Members will begin developing a portfolio of coding algorithms and data analytics samples through weekly assignments hosted on Replit and Google Classroom.
 
+# Hack the Hood &amp; Coding Integrity
+The code you write should be your own original work that reflects your understanding of the concepts we discuss together. While computer science is a collaborative discipline, you should avoid just copying and pasting work you find from other sources. Programming is all about curiosity and exploration. You should always aim to come up with original, unique code. If you are studying reliable resources, read the code carefully, understand the logic/behavior behind it and then type your own code without copying and pasting. This way, you will retain the information much better and it may be easier for you to solve similar coding problems that you may see thereafter. Your understanding of the topics is far more important to us than just the completion of the assignment. Like academic writing, your code can incorporate the ideas of others but should reflect your own approach to solving the problem. 
+
+Coding can be difficult but if you apply critical thinking, lean on your peers, and use all your resources, there is little doubt that you will succeed! While it may be tempting to copy when you are struggling, don’t give in and don’t give up on yourself! Break complex expressions and tasks down into smaller, simpler steps if you are feeling overwhelmed. Embrace your creativity and trust your gut. If your work appears to present as more sophisticated than we would anticipate, you should expect follow-up questions seeking clarity. Make use of comments in your code to ensure you thoroughly understand anything you want to submit as your own original code.
+
 <table>
   <tr>
     <td><b>Software Concept<b></td>
@@ -68,9 +73,3 @@ Members will begin developing a portfolio of coding algorithms and data analytic
     <td>After completing this module, learners will be able to write various data queries and evaluate the results. They will be able to write SQL statements that edit existing data and also create new database objects. Builders will be able to explain the design of relational databases and why data security is so important.</td>
   </tr>    
 </table>
-
-
-# Hack the Hood &amp; Coding Integrity
-The code you write should be your own original work that reflects your understanding of the concepts we discuss together. While computer science is a collaborative discipline, you should avoid just copying and pasting work you find from other sources. Programming is all about curiosity and exploration. You should always aim to come up with original, unique code. If you are studying reliable resources, read the code carefully, understand the logic/behavior behind it and then type your own code without copying and pasting. This way, you will retain the information much better and it may be easier for you to solve similar coding problems that you may see thereafter. Your understanding of the topics is far more important to us than just the completion of the assignment. Like academic writing, your code can incorporate the ideas of others but should reflect your own approach to solving the problem. 
-
-Coding can be difficult but if you apply critical thinking, lean on your peers, and use all your resources, there is little doubt that you will succeed! While it may be tempting to copy when you are struggling, don’t give in and don’t give up on yourself! Break complex expressions and tasks down into smaller, simpler steps if you are feeling overwhelmed. Embrace your creativity and trust your gut. If your work appears to present as more sophisticated than we would anticipate, you should expect follow-up questions seeking clarity. Make use of comments in your code to ensure you thoroughly understand anything you want to submit as your own original code.
