@@ -17,7 +17,7 @@ nav_order: 4
   <h1>Participation</h1>
     <p>Particaipation is essential to the Hack the Hood experience and will be evaluated by your instructors. Examples of poor participation are: Camera always off, not contributing to team building exercises, not offering solutions to group coding sessions.</p>
 
-  <h1>Attendence</h1>
+  <h1>Attendance</h1>
     <p>Attendence is crucial to staying in the Build program. More than three unexcused absences may result in the removal of a student from the program. Please reach out to your instructor before a missed session to make sure the approprate notes are added to the attendence sheet.</p>
 
   <h1>Post-Program survey</h1>
