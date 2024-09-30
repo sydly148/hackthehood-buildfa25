@@ -3,17 +3,10 @@ title: Resources
 layout: home
 nav_order: 3
 ---
-
-Include here all links for resources (including pandas cheatsheet and any other helpful documentation). Parker, if you have any helpful resources/documentation, feel free to add them here as well.
-
 <table>
   <tr>
     <td>Zoom Meeting Link</td>
     <td><a href="https://us06web.zoom.us/j/3435754269">Zoom Link</a></td>
-  </tr>
-  <tr>
-    <td>Tiger Teams Zoom Links</td>
-    <td>Parker (Red, Green, Yellow, Gray): i think we need to use the instructor one <br> Sydney (Blue, Purple, Pink, Orange): our zoom accounts are limited to 40 minutes</td>
   </tr>
   <tr>
     <td>Google Classroom</td>
