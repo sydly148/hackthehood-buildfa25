@@ -17,12 +17,10 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 
 ## Week 1 Announcements
 ### Assignments Due:
-- First Assignment
-- Second Assignment
-- Third Assignment
+- Submit your exit ticket for Monday's lecture.
 ### Reminders:
-- First Reminder
-- Second Reminder
+- Make sure you have access to Slack, Google Classroom, and Colab!
+- Double check your Tiger Team time!
 
 ---
 
