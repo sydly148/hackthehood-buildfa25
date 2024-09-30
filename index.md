@@ -29,17 +29,17 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 9/30:</td>
     <td><span class="label label-green">LECTURE</span> Launch Day & Discrepancies in CS Education </td>
-    <td>Slides</td>
+    <td><a href="https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0">Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/2:</td>
     <td><span class="label label-green">LECTURE</span> Python Review + Learning Lab: Object Oriented Programming </td>
-    <td>Slides, Colab</td>
+    <td><a href="https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0">Slides</a>, <a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/3 or Sat 10/5:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Environment Setup </td>
-    <td>SCRUM</td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">Slides</a>, <a href="https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0">SCRUM</a></td>
   </tr>
 </table>
 
