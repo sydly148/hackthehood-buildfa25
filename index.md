@@ -17,7 +17,8 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 
 ## Week 1 Announcements
 ### Assignments Due:
-- Submit your exit ticket for Monday's lecture.
+- Submit your exit ticket for Wednesday's lecture on Google Classroom.
+- Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) before Saturday, 11:59 pm.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
 - Double check your Tiger Team time!
@@ -34,7 +35,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 10/2:</td>
     <td><span class="label label-green">LECTURE</span> Python Review + Learning Lab: Object Oriented Programming </td>
-    <td>Slides, <a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Colab</a></td>
+    <td><a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/3 or Sat 10/5:</td>
