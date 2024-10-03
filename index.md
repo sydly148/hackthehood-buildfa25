@@ -19,6 +19,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Assignments Due:
 - Submit your exit ticket for Wednesday's lecture on Google Classroom by Thursday, 11:59 pm.
 - Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) before Saturday, 11:59 pm, and submit a screenshot of the Completed Survey screen to Google Classroom.
+- OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
 - Double check your Tiger Team time!
@@ -35,7 +36,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 10/2:</td>
     <td><span class="label label-green">LECTURE</span> Python Review + Learning Lab: Object Oriented Programming </td>
-    <td><a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Colab</a></td>
+    <td><a href="https://create.kahoot.it/share/review-of-python-basics/5922a08b-12b3-43a4-bc6d-8f935e4c8533">Kahoot</a>, <a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Python Calculator Colab</a>, <a href="https://docs.google.com/document/d/1MUAdr1Pd2fJgUEqltH1rWrsJQ6S7RsqXwUid8lmOkiM/edit?usp=sharing">Superhero Battle Simulator</a></td>
   </tr>
   <tr>
     <td>Thurs 10/3 or Sat 10/5:</td>
