@@ -14,7 +14,7 @@ nav_order: 3
   </tr>
   <tr>
     <td>Colab</td>
-    <td>[Colab](https://drive.google.com/drive/folders/19G6POOqEd0mvbXDSHZAq64kbmhPdiZ05?usp=sharing)</td>
+    <td><a href="https://drive.google.com/drive/folders/19G6POOqEd0mvbXDSHZAq64kbmhPdiZ05?usp=sharing">Colab</a></td>
   </tr>
   <tr>
     <td>Curriculum Map</td>
