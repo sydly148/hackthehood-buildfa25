@@ -17,8 +17,8 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 
 ## Week 1 Announcements
 ### Assignments Due:
-- Submit your exit ticket for Wednesday's lecture on Google Classroom.
-- Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) before Saturday, 11:59 pm.
+- Submit your exit ticket for Wednesday's lecture on Google Classroom by Thursday, 11:59 pm.
+- Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) before Saturday, 11:59 pm, and submit a screenshot of the Completed Survey screen to Google Classroom.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
 - Double check your Tiger Team time!
