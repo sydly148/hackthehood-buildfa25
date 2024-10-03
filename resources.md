@@ -39,5 +39,5 @@ nav_order: 3
 [Pandas Cheatsheet](https://github.com/HtH-HacktheHood/laney-build-2022/blob/main/data-analysis/Python-Pandas-Cheat-Sheet.png)  
 
 ## Technical Interviewing Resources
-[Cracking the Coding Interview](https://github.com/AatmikJain/ComputerScienceBooks/blob/master/Cracking%20the%20Coding%20Interview.pdf)
+[Cracking the Coding Interview](https://github.com/AatmikJain/ComputerScienceBooks/blob/master/Cracking%20the%20Coding%20Interview.pdf)  
 [HackerRank Interview Prep](https://www.hackerrank.com/interview/interview-preparation-kit)
