@@ -41,7 +41,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Thurs 10/3 or Sat 10/5:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Environment Setup </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">Slides</a>, SCRUM</td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
   </tr>
 </table>
 
