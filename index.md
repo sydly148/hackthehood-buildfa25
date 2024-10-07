@@ -15,14 +15,13 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 1 Announcements
+## Week 2 Announcements
 ### Assignments Due:
-- Submit your exit ticket for Wednesday's lecture on Google Classroom by Thursday, 11:59 pm.
-- Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) before Saturday, 11:59 pm, and submit a screenshot of the Completed Survey screen to Google Classroom.
+- Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) if you have not already, and submit a screenshot of the Completed Survey screen to Google Classroom.
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
-- Double check your Tiger Team time!
+- Come prepared with questions for our panelists on Monday, 10/7!
 
 ---
 
@@ -50,7 +49,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 10/7:</td>
     <td><span class="label label-green">LECTURE</span> Career Exposure Panel & Using Tech for Social Justice </td>
-    <td>Slides</td>
+    <td>[Slides](https://docs.google.com/presentation/d/11InC8XXw2JvWPFuQ22ZdbeE3ZFUNpB9EZLxt3AVGn3M/edit?usp=sharing)</td>
   </tr>
   <tr>
     <td>Wed 10/9:</td>
