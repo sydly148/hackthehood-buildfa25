@@ -49,7 +49,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 10/7:</td>
     <td><span class="label label-green">LECTURE</span> Career Exposure Panel & Using Tech for Social Justice </td>
-    <td>[Slides](https://docs.google.com/presentation/d/11InC8XXw2JvWPFuQ22ZdbeE3ZFUNpB9EZLxt3AVGn3M/edit?usp=sharing)</td>
+    <td>Zoom Recording, <a href="https://docs.google.com/presentation/d/11InC8XXw2JvWPFuQ22ZdbeE3ZFUNpB9EZLxt3AVGn3M/edit?usp=sharing">Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/9:</td>
