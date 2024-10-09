@@ -54,7 +54,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 10/9:</td>
     <td><span class="label label-green">LECTURE</span> Data Literacy & Computational Thinking + Learning Lab: CRUD Operations </td>
-    <td><a href="https://docs.google.com/presentation/d/1PDbdWzDJ004kM1cy2zMjqfDvLrMN2-7yUaBcK_-5ThA/edit?usp=sharing">Data Literacy Slides</a>, <a href="https://docs.google.com/presentation/d/15UGx1o3D5rjj6tz-smFmHxvr2TJySQJ69ozoBMzqQUw/edit?usp=sharing">Computational Thinking Slides</a>, Colab</td>
+    <td><a href="https://docs.google.com/presentation/d/1PDbdWzDJ004kM1cy2zMjqfDvLrMN2-7yUaBcK_-5ThA/edit?usp=sharing">Data Literacy Slides</a>, <a href="https://docs.google.com/presentation/d/15UGx1o3D5rjj6tz-smFmHxvr2TJySQJ69ozoBMzqQUw/edit?usp=sharing">Computational Thinking Slides</a>, <a href="https://docs.google.com/document/d/1Z4YXbWi3hocjmrAhjJ3-YA__woTU3zguEcltrr_QtTs/edit?usp=sharing">Cookbook Instructions</a>, <a href="https://colab.research.google.com/drive/1amYfGYV6BDKfUtRuYwjQP8V0WVRNwEfB?usp=sharing">Cookbook Colab</a>b</td>
   </tr>
   <tr>
     <td>Thurs 10/10 or Sat 10/11:</td>
