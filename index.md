@@ -57,9 +57,9 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
     <td><a href="https://docs.google.com/presentation/d/1PDbdWzDJ004kM1cy2zMjqfDvLrMN2-7yUaBcK_-5ThA/edit?usp=sharing">Data Literacy Slides</a>, <a href="https://docs.google.com/presentation/d/15UGx1o3D5rjj6tz-smFmHxvr2TJySQJ69ozoBMzqQUw/edit?usp=sharing">Computational Thinking Slides</a>, <a href="https://docs.google.com/document/d/1Z4YXbWi3hocjmrAhjJ3-YA__woTU3zguEcltrr_QtTs/edit?usp=sharing">Cookbook Instructions</a>, <a href="https://colab.research.google.com/drive/1amYfGYV6BDKfUtRuYwjQP8V0WVRNwEfB?usp=sharing">Cookbook Colab</a></td>
   </tr>
   <tr>
-    <td>Thurs 10/10 or Sat 10/11:</td>
+    <td>Thurs 10/10 or Sat 10/12:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Social Justice Checklist </td>
-    <td>SCRUM, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
   </tr>
 </table>
 
