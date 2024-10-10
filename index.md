@@ -59,7 +59,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Thurs 10/10 or Sat 10/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Social Justice Checklist </td>
-    <td>SCRUM, Colab</td>
+    <td>SCRUM, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
   </tr>
 </table>
 
