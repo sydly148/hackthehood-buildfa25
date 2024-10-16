@@ -67,13 +67,13 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 <table>
   <tr>
     <td>Mon 10/14:</td>
-    <td><span class="label label-green">LECTURE</span> Storytelling & Data Driven Change </td>
-    <td>Slides 1, Slides 2</td>
+    <td><span class="label label-green">LECTURE</span> <b>Indigenous People's Day - NO LECTURE!</b> </td>
+    <td></td>
   </tr>
   <tr>
     <td>Wed 10/16:</td>
     <td><span class="label label-green">LECTURE</span> Data Science and Pandas + Learning Lab: Introduction to Pandas </td>
-    <td>Slides 1, Slides 2</td>
+    <td><a href="https://create.kahoot.it/share/what-do-you-know-about-ds/3d760fd6-b1c1-4a23-9706-8992736c433f">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1XeyaEb2a56DUql8L8MCrDsU8mrJYmBU1DWYNkC0ODuc/edit?usp=sharing">What is Data Science? Slides</a>, <a href="https://docs.google.com/presentation/d/1AvSLUCzT73Rr25NKmXSdzoM6UeeSYc3MtRZRFXjotUM/edit?usp=sharing">Using Pandas for Data Science Slides</a>, <a href="https://docs.google.com/presentation/d/1ir7HVVmgNJejBvMAF6FkPNcYeDeeE1wh7cZVHe-vCoo/edit?usp=sharing">Learning Lab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/17 or Sat 10/19:</td>
