@@ -15,13 +15,14 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 2 Announcements
+## Week 3 Announcements
 ### Assignments Due:
 - Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) if you have not already, and submit a screenshot of the Completed Survey screen to Google Classroom.
+- Complete Wednesday's lecture Exit Ticket.
+- Submit your SCRUM for this week's Tiger Teams.
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
-- Come prepared with questions for our panelists on Monday, 10/7!
 
 ---
 
@@ -78,7 +79,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Thurs 10/17 or Sat 10/19:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Data Analysis for Social Change </td>
-    <td>SCRUM, Colab</td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1eKUh-AFT9IWGVEEvhVgrn5doH5AT1pDr?usp=sharing">Data Analysis for Social Change Colab</a></td>
   </tr>
 </table>
 
