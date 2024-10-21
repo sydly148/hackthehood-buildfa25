@@ -87,7 +87,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 10/21:</td>
     <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td>Zoom Recording, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a>, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a></td>
+    <td>Zoom Recording, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/23:</td>
