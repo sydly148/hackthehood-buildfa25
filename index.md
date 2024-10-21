@@ -15,14 +15,13 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 3 Announcements
+## Week 4 Announcements
 ### Assignments Due:
-- Complete the [Pre-Program Survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_0CkoiIPnGFA6FbE) if you have not already, and submit a screenshot of the Completed Survey screen to Google Classroom.
-- Complete Wednesday's lecture Exit Ticket.
-- Submit your SCRUM for this week's Tiger Teams.
+- Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams. 
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
+- Prepare questions for the Career Exposure Panel on Monday, 10/21!
 
 ---
 
@@ -88,7 +87,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 10/21:</td>
     <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td>Slides 1, Slides 2</td>
+    <td>Zoom Recording, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a>, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/23:</td>
