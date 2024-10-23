@@ -17,7 +17,8 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 
 ## Week 4 Announcements
 ### Assignments Due:
-- Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams. 
+- Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
+- Submit your exit ticket for Wednesday (10/23) lecture.
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
@@ -92,7 +93,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 10/23:</td>
     <td><span class="label label-green">LECTURE</span> Pandas Data Manipulation + Learning Lab: More Pandas & Visualization </td>
-    <td>Slides 1, Slides 2, Slides 3</td>
+    <td><a href="https://docs.google.com/presentation/d/17bKVZr5c_dkqsG6nqinvKnUJTX2hPt6PKK3XxkIvs1Q/edit?usp=sharing">More Pandas Data Manipulation Slides</a>, <a href="https://docs.google.com/presentation/d/1BwIkln48NMvADEcXtzn3y8rrl5Tr-DNFX90OBTVndYE/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/19gv1YqrTQCmBOJcnDw0toJeC5CYsPyq2?usp=sharing">Learning Lab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/24 or Sat 10/26:</td>
