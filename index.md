@@ -88,12 +88,12 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 10/21:</td>
     <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td>Zoom Recording, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
+    <td><a href="https://drive.google.com/file/d/1PBgxdgqjiX6eJJeOhijebCMxa6-lhkum/view?usp=sharing">Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/23:</td>
     <td><span class="label label-green">LECTURE</span> Pandas Data Manipulation + Learning Lab: More Pandas & Visualization </td>
-    <td><a href="https://docs.google.com/presentation/d/17bKVZr5c_dkqsG6nqinvKnUJTX2hPt6PKK3XxkIvs1Q/edit?usp=sharing">More Pandas Data Manipulation Slides</a>, <a href="https://docs.google.com/presentation/d/1BwIkln48NMvADEcXtzn3y8rrl5Tr-DNFX90OBTVndYE/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/19gv1YqrTQCmBOJcnDw0toJeC5CYsPyq2?usp=sharing">Learning Lab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/17bKVZr5c_dkqsG6nqinvKnUJTX2hPt6PKK3XxkIvs1Q/edit?usp=sharing">More Pandas Data Manipulation Slides</a>, <a href="https://docs.google.com/presentation/d/1BwIkln48NMvADEcXtzn3y8rrl5Tr-DNFX90OBTVndYE/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/19gv1YqrTQCmBOJcnDw0toJeC5CYsPyq2?usp=sharing">Learning Lab</a>, <a href="https://colab.research.google.com/drive/1tb1iLDHj2ydyGT43gOZ3EhWXJvbaik9C?usp=sharing">Learning Lab Example Code</a></td>
   </tr>
   <tr>
     <td>Thurs 10/24 or Sat 10/26:</td>
