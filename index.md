@@ -97,8 +97,8 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   </tr>
   <tr>
     <td>Thurs 10/24 or Sat 10/26:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> COVID-19 Data Analysis </td>
-    <td>SCRUM, Colab</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> McDonald's Menu Data Analysis </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://drive.google.com/drive/folders/1irBnQR4apQXbF9Lt7l0fIx97baUW2zgt?usp=drive_link">McDonald's Menu Colab</a></td>
   </tr>
 </table>
 
