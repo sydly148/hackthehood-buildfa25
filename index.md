@@ -15,14 +15,13 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 4 Announcements
+## Week 5 Announcements
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
-- Submit your exit ticket for Wednesday (10/23) lecture.
+- Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
-- Prepare questions for the Career Exposure Panel on Monday, 10/21!
 
 ---
 
@@ -107,7 +106,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 10/28:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development & Digital Cookie Crumbs </td>
-    <td>Slides 1, Slides 2</td>
+    <td><a href="https://docs.google.com/presentation/d/1dEo7nviFS9cDggaCL6iBgkhHkxA5QskC5wLMupB74SE/edit?usp=sharing">Storytelling Slides</a>, <a href="https://docs.google.com/presentation/d/10pVhezOtlNoJhyr5KB1IZhrgTjjRLZCBGvTIzyvIkJw/edit?usp=sharing">Digital Cookie Crumbs Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/30:</td>
