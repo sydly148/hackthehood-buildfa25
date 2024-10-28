@@ -21,7 +21,8 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
-- Make sure you have access to Slack, Google Classroom, and Colab!
+- Make sure you have access to Slack, Google Classroom, and Colab!\
+- **THERE ARE NO TIGER TEAMS THIS WEEK!**
 
 ---
 
