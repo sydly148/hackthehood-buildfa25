@@ -112,7 +112,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 10/30:</td>
     <td><span class="label label-green">LECTURE</span> Command Line & Version Control + Learning Lab: CLI and Git </td>
-    <td>Code Along: Terminus, Code Along: Git Branching</td>
+    <td><a href="https://docs.google.com/presentation/d/1kaRmEraxoPQnF_YDOXSXEnsPK69zjMFsBTioePlJrIQ/edit?usp=sharing">Understanding Your Work Environment Slides</a>, <a href="https://create.kahoot.it/share/review-of-commands-git-bash/c1718366-8b18-4a3b-a634-c666331201cc">Kahoot</a>, <a href="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Code Along: Terminus</a>, <a href="https://learngitbranching.js.org/">Code Along: Git Branching</a></td>
   </tr>
   <tr>
     <td>Thurs 10/31 or Sat 11/2:</td>
