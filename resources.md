@@ -30,7 +30,8 @@ nav_order: 3
 [Python Tutorial](https://docs.python.org/3/tutorial/index.html): A fairly comprehensive tutorial to refresh and reteach yourself Python.  
 [NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy): A good refresher for NumPy.  
 [Python 101](https://nbviewer.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb): A notebook that demonstrates a lot of Python functionality with limited explanation.    
-[Object Oriented Programming Help](https://realpython.com/python3-object-oriented-programming/)
+[Object Oriented Programming Help](https://realpython.com/python3-object-oriented-programming/)  
+[Command Line Cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)  
 
 ## Pandas Resources
 [Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)  
