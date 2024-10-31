@@ -19,6 +19,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
+- Submit your exit tickets for Monday and Wednesday lectures!
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!\
