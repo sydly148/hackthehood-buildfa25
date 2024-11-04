@@ -19,11 +19,11 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
-- Submit your exit tickets for Monday and Wednesday lectures!
+- Submit your exit ticket for Monday's lecture!
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
-- Make sure you have access to Slack, Google Classroom, and Colab!\
-- **THERE ARE NO TIGER TEAMS THIS WEEK!**
+- Make sure you have access to Slack, Google Classroom, and Colab!
+- **USE THE HUSTLE ZOOM LINK FOR THE FIRST PART OF MONDAY'S LECTURE!**
 
 ---
 
@@ -127,7 +127,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 11/4:</td>
     <td><span class="label label-green">LECTURE</span> LinkedIn Workshop & Dangerous Minds </td>
-    <td>Slides</td>
+    <td><a href="https://us06web.zoom.us/j/9331115953">Hustle Zoom Link for Workshop</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
   </tr>
   <tr>
     <td>Wed 11/6:</td>
