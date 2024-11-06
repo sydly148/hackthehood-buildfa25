@@ -15,15 +15,15 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 5 Announcements
+## Week 6 Announcements
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
-- Submit your exit ticket for Monday's lecture!
+- Submit your exit ticket for Wednesday's lecture!
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
-- **USE THE HUSTLE ZOOM LINK FOR THE FIRST PART OF MONDAY'S LECTURE!**
+- Schedule your asynchronous Tiger Team time with your instructor!
 
 ---
 
@@ -132,7 +132,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 11/6:</td>
     <td><span class="label label-green">LECTURE</span> Machine Learning with Python + Learning Lab: Machine Learning </td>
-    <td>Slides 1, Slides 2, Code Along</td>
+    <td><a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1j4c2qJzjfMU1tGNVyhS2pXb16O4zY7DmPGTCZxakbmw/edit?usp=sharing">Machine Learning with Python Slides</a>, <a href="https://www.codementor.io/@garethdwyer/introduction-to-machine-learning-with-python-and-repl-it-rln7ywkhc">Code Along: Intro to Practicing Machine Learning</a>, <a href="https://colab.research.google.com/drive/1hcc6MGEWubLdnUso_QxAR1-rjRBakfsF?usp=sharing">Learning Lab: Machine Learning</a></td>
   </tr>
   <tr>
     <td>Thurs 11/7 or Sat 11/9:</td>
