@@ -137,7 +137,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Thurs 11/7 or Sat 11/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
-    <td>SCRUM</td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1owqsDYnHzvny2xwVlACUSPS_LOf-gFUm?usp=sharing">Spotify Music Recommendations Colab</a></td>
   </tr>
 </table>
 
