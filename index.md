@@ -132,7 +132,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 11/6:</td>
     <td><span class="label label-green">LECTURE</span> Machine Learning with Python + Learning Lab: Machine Learning </td>
-    <td><a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1j4c2qJzjfMU1tGNVyhS2pXb16O4zY7DmPGTCZxakbmw/edit?usp=sharing">Machine Learning with Python Slides</a>, <a href="https://colab.research.google.com/drive/15g6ibTIA_H_Am9bCguiZEbv12KGGQvq_?usp=sharing">Code Along: Intro to Practicing Machine Learning</a>, <a href="https://colab.research.google.com/drive/1hcc6MGEWubLdnUso_QxAR1-rjRBakfsF?usp=sharing">Learning Lab: Machine Learning</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1j4c2qJzjfMU1tGNVyhS2pXb16O4zY7DmPGTCZxakbmw/edit?usp=sharing">Machine Learning with Python Slides</a>, <a href="https://colab.research.google.com/drive/15g6ibTIA_H_Am9bCguiZEbv12KGGQvq_?usp=sharing">Code Along: Intro to Practicing Machine Learning</a>, <a href="https://colab.research.google.com/drive/1hcc6MGEWubLdnUso_QxAR1-rjRBakfsF?usp=sharing">Learning Lab: Machine Learning</a>, <a href="https://colab.research.google.com/drive/1NpuvZhcRZItLfBm7pE9p1LrNFWCF2o45?usp=sharing">Learning Lab: Machine Learning Example Code</a></td>
   </tr>
   <tr>
     <td>Thurs 11/7 or Sat 11/9:</td>
