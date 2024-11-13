@@ -15,7 +15,7 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 6 Announcements
+## Week 7 Announcements
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
