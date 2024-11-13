@@ -19,11 +19,12 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
-- Submit your exit ticket for Wednesday's lecture!
+- Work on the Spotify Music Recommendations assignment for Week 6's Tiger Teams.
+- Submit your exit ticket for Monday's lecture!
 - OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
-- Schedule your asynchronous Tiger Team time with your instructor!
+- **Schedule your asynchronous Tiger Team time with your instructor!**
 
 ---
 
@@ -151,7 +152,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Wed 11/13:</td>
     <td><span class="label label-green">LECTURE</span> Large Language Models & Ethics in AI + Learning Lab: Comparing AI Tools </td>
-    <td>Slides 1, Slides 2</td>
+    <td><a href="https://create.kahoot.it/details/33c0a7d5-9802-4310-928d-80644c684cf5">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1zk5eD2lOibxaCQmugZUQK3eVRmTp4nvT8FA-F3izFRQ/edit?usp=sharing">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a>, <a href="https://colab.research.google.com/drive/1Kd0AuVzhumqAkNEKD3d2D4jftQIyOmLc?usp=sharing">Learning Lab: Comparing AI Tools</a></td>
   </tr>
   <tr>
     <td>Thurs 11/14 or Sat 11/16:</td>
