@@ -48,8 +48,8 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
     <td style="background-color: #D8BFD8;">Mondays 4:30pm-6:30pm</td>
   </tr>
   <tr>
-    <td style="background-color: #FFFFE0;">Yellow Tiger Team - Parker</td>
-    <td style="background-color: #FFFFE0;">Wednesdays 5pm-7pm</td>
+    <td style="background-color: #F0E68C;">Yellow Tiger Team - Parker</td>
+    <td style="background-color: #F0E68C;">Wednesdays 5pm-7pm</td>
   </tr>
   <tr>
     <td style="background-color: #FFB6C1;">Pink Tiger Team - Sydney</td>
