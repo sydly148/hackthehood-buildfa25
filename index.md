@@ -32,36 +32,36 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
     <td><b>New Async Tiger Team Time</b></td>
   </tr>
   <tr>
-    <td><p style="background-color: #FF7F7F;">Red Tiger Team - Parker</p></td>
-    <td><p style="background-color: #FF7F7F;">Mondays 4pm-6pm</p></td>
+    <td style="background-color: #FF7F7F;">Red Tiger Team - Parker</td>
+    <td style="background-color: #FF7F7F;">Mondays 4pm-6pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #ADD8E6;">Blue Tiger Team - Sydney</p></td>
-    <td><p style="background-color: #ADD8E6;">Wednesdays 4pm-6pm</p></td>
+    <td style="background-color: #ADD8E6;">Blue Tiger Team - Sydney</td>
+    <td style="background-color: #ADD8E6;">Wednesdays 4pm-6pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #90EE90;">Green Tiger Team - Parker</p></td>
-    <td><p style="background-color: #90EE90;">Tuesdays 6pm-8pm</p></td>
+    <td style="background-color: #90EE90;">Green Tiger Team - Parker</td>
+    <td style="background-color: #90EE90;">Tuesdays 6pm-8pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #D8BFD8;">Purple Tiger Team - Sydney</p></td>
-    <td><p style="background-color: #D8BFD8;">Mondays 4:30pm-6:30pm</p></td>
+    <td style="background-color: #D8BFD8;">Purple Tiger Team - Sydney</td>
+    <td style="background-color: #D8BFD8;">Mondays 4:30pm-6:30pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #FFFFE0;">Yellow Tiger Team - Parker</p></td>
-    <td><p style="background-color: #FFFFE0;">Wednesdays 5pm-7pm</p></td>
+    <td style="background-color: #FFFFE0;">Yellow Tiger Team - Parker</td>
+    <td style="background-color: #FFFFE0;">Wednesdays 5pm-7pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #FFB6C1;">Pink Tiger Team - Sydney</p></td>
-    <td><p style="background-color: #FFB6C1;">Tuesdays 5pm-7pm</p></td>
+    <td style="background-color: #FFB6C1;">Pink Tiger Team - Sydney</td>
+    <td style="background-color: #FFB6C1;">Tuesdays 5pm-7pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #D3D3D3;">Gray Tiger Team - Parker</p></td>
-    <td><p style="background-color: #D3D3D3;">Tuesdays 4pm-6pm</p></td>
+    <td style="background-color: #D3D3D3;">Gray Tiger Team - Parker</td>
+    <td style="background-color: #D3D3D3;">Tuesdays 4pm-6pm</td>
   </tr>
   <tr>
-    <td><p style="background-color: #FFD580;">Orange Tiger Team - Sydney</p></td>
-    <td><p style="background-color: #FFD580;">Wednesdays 5pm-7pm</p></td>
+    <td style="background-color: #FFD580;">Orange Tiger Team - Sydney</td>
+    <td style="background-color: #FFD580;">Wednesdays 5pm-7pm</td>
   </tr>
 </table>
 
