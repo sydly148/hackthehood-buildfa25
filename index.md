@@ -28,40 +28,40 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Tenative Asynchronous Tiger Team Schedule
 <table>
   <tr>
-    <td><b>Tiger Team Color + Instructor</b></td>
+    <td><b>Tiger Team Color - Instructor</b></td>
     <td><b>New Async Tiger Team Time</b></td>
   </tr>
   <tr>
-    <td>Red Tiger Team - Parker</td>
-    <td>Mondays 4pm-6pm</td>
+    <td><p style="background-color: red;">Red Tiger Team - Parker</p></td>
+    <td><p style="background-color: red;">Mondays 4pm-6pm</p></td>
   </tr>
   <tr>
-    <td>Blue Tiger Team - Sydney</td>
-    <td>Wednesdays 4pm-6pm</td>
+    <td><p style="background-color: blue;">Blue Tiger Team - Sydney</p>Blue Tiger Team - Sydney</td>
+    <td><p style="background-color: blue;">Wednesdays 4pm-6pm</p></td>
   </tr>
   <tr>
-    <td>Green Tiger Team - Parker</td>
-    <td>Tuesdays 6pm-8pm</td>
+    <td><p style="background-color: green;">Green Tiger Team - Parker</p></td>
+    <td><p style="background-color: green;">Tuesdays 6pm-8pm</p></td>
   </tr>
   <tr>
-    <td>Purple Tiger Team - Sydney</td>
-    <td>Mondays 4:30pm-6:30pm</td>
+    <td><p style="background-color: purple;">Purple Tiger Team - Sydney</p></td>
+    <td><p style="background-color: purple;">Mondays 4:30pm-6:30pm</p></td>
   </tr>
   <tr>
     <td><p style="background-color: yellow;">Yellow Tiger Team - Parker</p></td>
-    <td>Wednesdays 5pm-7pm</td>
+    <td><p style="background-color: yellow;">Wednesdays 5pm-7pm</p></td>
   </tr>
   <tr>
-    <td>Pink Tiger Team - Sydney</td>
-    <td>Tuesdays 5pm-7pm</td>
+    <td><p style="background-color: pink;">Pink Tiger Team - Sydney</p></td>
+    <td><p style="background-color: pink;">Tuesdays 5pm-7pm</p></td>
   </tr>
   <tr>
-    <td>Gray Tiger Team - Parker</td>
-    <td>Tuesdays 4pm-6pm</td>
+    <td><p style="background-color: gray;">Gray Tiger Team - Parker</p></td>
+    <td><p style="background-color: gray;">Tuesdays 4pm-6pm</p></td>
   </tr>
   <tr>
-    <td>Orange Tiger Team - Sydney</td>
-    <td>Wednesdays 5pm-7pm</td>
+    <td><p style="background-color: orange;">Orange Tiger Team - Sydney</p></td>
+    <td><p style="background-color: orange;">Wednesdays 5pm-7pm</p></td>
   </tr>
 </table>
 
