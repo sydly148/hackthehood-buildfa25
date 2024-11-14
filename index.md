@@ -48,7 +48,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
     <td>Mondays 4:30pm-6:30pm</td>
   </tr>
   <tr>
-    <td>Yellow Tiger Team - Parker</td>
+    <td><p style="background-color: yellow;">Yellow Tiger Team - Parker</p></td>
     <td>Wednesdays 5pm-7pm</td>
   </tr>
   <tr>
