@@ -25,6 +25,45 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Reminders:
 - Make sure you have access to Slack, Google Classroom, and Colab!
 - **Schedule your asynchronous Tiger Team time with your instructor!**
+### Tenative Asynchronous Tiger Team Schedule
+<table>
+  <tr>
+    <td><b>Tiger Team Color + Instructor</b></td>
+    <td><b>New Async Tiger Team Time</b></td>
+  </tr>
+  <tr>
+    <td>Red Tiger Team - Parker</td>
+    <td>Mondays 4pm-6pm</td>
+  </tr>
+  <tr>
+    <td>Blue Tiger Team - Sydney</td>
+    <td>Wednesdays 4pm-6pm</td>
+  </tr>
+  <tr>
+    <td>Green Tiger Team - Parker</td>
+    <td>Tuesdays 6pm-8pm</td>
+  </tr>
+  <tr>
+    <td>Purple Tiger Team - Sydney</td>
+    <td>Mondays 4:30pm-6:30pm</td>
+  </tr>
+  <tr>
+    <td>Yellow Tiger Team - Parker</td>
+    <td>Wednesdays 5pm-7pm</td>
+  </tr>
+  <tr>
+    <td>Pink Tiger Team - Sydney</td>
+    <td>Tuesdays 5pm-7pm</td>
+  </tr>
+  <tr>
+    <td>Gray Tiger Team - Parker</td>
+    <td>Tuesdays 4pm-6pm</td>
+  </tr>
+  <tr>
+    <td>Orange Tiger Team - Sydney</td>
+    <td>Wednesdays 5pm-7pm</td>
+  </tr>
+</table>
 
 ---
 
