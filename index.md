@@ -15,16 +15,16 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 7 Announcements
+## Week 8 Announcements
 ### Assignments Due:
 - Work on the Data Analysis for Social Change assignment from Week 3's Tiger Teams.
 - Work on the McDonald's Menu assignment from Week 4's Tiger Teams.
 - Work on the Spotify Music Recommendations assignment for Week 6's Tiger Teams.
 - Submit your exit ticket for Monday's lecture!
-- OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback.
+- OPTIONAL: Submit your Superhero Battle Simulator on Google Classroom if you want feedback. 
 ### Reminders:
-- Make sure you have access to Slack, Google Classroom, and Colab!
-- **Schedule your asynchronous Tiger Team time with your instructor!**
+- Start looking for interesting datasets for your final project!
+- **Asynchronous schedule starts next week!!** 
 ### Tenative Asynchronous Tiger Team Schedule
 <table>
   <tr>
@@ -205,7 +205,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 11/18:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development & Social Entrepreneurship </td>
-    <td>Slides</td>
+    <td>Workshop Zoom Recording, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Social Entrepreneurship Slides</a></td>
   </tr>
   <tr>
     <td>Wed 11/20:</td>
