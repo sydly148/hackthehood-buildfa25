@@ -167,7 +167,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 11/4:</td>
     <td><span class="label label-green">LECTURE</span> LinkedIn Workshop & Dangerous Minds </td>
-    <td><a href="https://us06web.zoom.us/j/9331115953">Hustle Zoom Link for Workshop</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
+    <td><a href="https://drive.google.com/drive/folders/1a6lG8GM7Mkbllv9_hA-isBKFgCfkbxUP?usp=sharing">Workshop Recording + Slides</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
   </tr>
   <tr>
     <td>Wed 11/6:</td>
