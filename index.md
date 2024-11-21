@@ -222,7 +222,7 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Week 9
 <table>
   <tr>
-    <td>ASYNCHRONOUS</td>
+    <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Finding an Interesting Dataset </td>
     <td><a href="https://docs.google.com/document/d/16sF9LL2n3wfodf62nX05lzwYkkCYvg080QZssIkTOvU/edit?usp=sharing">Final Project Guide</a>, <a href="https://docs.google.com/presentation/d/1CRhlx2SE1d6WNGfl5pkMKMkuY1QRgC9k7rmNWdatPKY/edit?usp=sharing">Final Project Example</a></td>
   </tr>
