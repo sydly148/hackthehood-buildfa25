@@ -15,12 +15,13 @@ Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00
 Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
 Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 10 Announcements
+## Week 11 Announcements
 ### Assignments Due:
-- Submit your second final project checkpoint on Google Classroom!
+- Submit your third final project checkpoint on Google Classroom!
 ### Reminders:
 - Catch up on any assignments you're missing on Google Classroom!
 - **RSVP for graduation [here](https://www.eventbrite.com/e/hack-the-hood-fall-graduation-tickets-1096463414589)!**
+- **FILL OUT THE POST-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2mz6eyUfuAdJsto)!**
 ### Asynchronous Tiger Team Schedule
 <table>
   <tr>
