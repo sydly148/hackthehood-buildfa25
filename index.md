@@ -5,23 +5,18 @@ nav_order: 1
 ---
 
 # Welcome to Hack the Hood: Build!
-[Google Classroom](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0){: .btn .btn-blue }
-[Zoom Link](https://us06web.zoom.us/j/3435754269){: .btn .btn-purple }
+[Google Classroom] (https://classroom.google.com/c/NTg2NzU3MDk3MzAz?cjc=cjpne5d){: .btn .btn-blue }
+[Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-purple }
 
-Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, reminders, and additional resources here.
+Welcome to the course website for Hack the Hood's Build Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
-Lectures: Mondays (4:30 pm-7:00 pm) and Wednesdays (4:00 pm-7:30 pm)  
-Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00 pm-7:00 pm), Purple (6:00 pm-8:00 pm)  
-Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
-Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
+Lectures: Mondays and Wednesdays (10:00 am-12:30 pm PST)  
+Learning Labs: Mondays (12:30pm-1:30pm PST)
+Tiger Teams: Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PST)
+Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:example@example.com">jovita@hackthehood.org</a>)  
 
-## Week 11 Announcements
-### Assignments Due:
-- Submit your third final project checkpoint on Google Classroom!
-### Reminders:
-- Catch up on any assignments you're missing on Google Classroom!
-- **RSVP for graduation [here](https://www.eventbrite.com/e/hack-the-hood-fall-graduation-tickets-1096463414589)!**
-- **FILL OUT THE POST-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2mz6eyUfuAdJsto)!**
+## Week 1 Announcements
+
 ### Asynchronous Tiger Team Schedule
 <table>
   <tr>
