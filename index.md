@@ -148,7 +148,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     <td><a href="https://docs.google.com/spreadsheets/d/1A9kN6RUCRjXv0_ydjNbh63D94QPWv62gm3QpBm2csDM/edit?gid=907513029#gid=907513029">SCRUM Slides</a>, <a href="">COVID19 Data Analysis</a>
   </tr>
   <tr>
-    <td>7/10:</td>
+    <td>Thursday 7/10:</td>
     <td><span class="label label-green">LECTURE</span> Healthcare Technology + Pandas + Ethics in AI </td>
     <td><a href="https://docs.google.com/presentation/d/1-1H1tHC9x4Bw3DfvbyRvpspkMS-Fpe7DF3WyR2p0PkE/edit?slide=id.p#slide=id.p">Healthcare and Technology</a>, <a href="https://docs.google.com/presentation/d/1Rs9M2LW_9n_J03IVVSZSSXDf17ORY1hRwHCvxvnR9QQ/edit?slide=id.g13bafd10a5f_0_58#slide=id.g13bafd10a5f_0_58">Algorithmic Medicine</a></td>
   </tr>
