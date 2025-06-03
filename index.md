@@ -138,19 +138,19 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 ### Week 5
 <table>
   <tr>
-    <td>Mon 10/28:</td>
-    <td><span class="label label-green">LECTURE</span> Identity Development & Digital Cookie Crumbs </td>
-    <td><a href="https://docs.google.com/presentation/d/1dEo7nviFS9cDggaCL6iBgkhHkxA5QskC5wLMupB74SE/edit?usp=sharing">Storytelling Slides</a>, <a href="https://docs.google.com/presentation/d/10pVhezOtlNoJhyr5KB1IZhrgTjjRLZCBGvTIzyvIkJw/edit?usp=sharing">Digital Cookie Crumbs Slides</a></td>
+    <td>Mon 7/7:</td>
+    <td><span class="label label-green">LECTURE</span> New Relic Data Science Career Panel + Data Science Applications </td>
+    <td><a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World</a>, <a href="https://docs.google.com/presentation/d/1ir7HVVmgNJejBvMAF6FkPNcYeDeeE1wh7cZVHe-vCoo/edit?usp=sharing">Team Data Exploration Chipotle Data Analysis</a></td>
   </tr>
   <tr>
-    <td>Wed 10/30:</td>
-    <td><span class="label label-green">LECTURE</span> Command Line & Version Control + Learning Lab: CLI and Git </td>
-    <td><a href="https://docs.google.com/presentation/d/1kaRmEraxoPQnF_YDOXSXEnsPK69zjMFsBTioePlJrIQ/edit?usp=sharing">Understanding Your Work Environment Slides</a>, <a href="https://create.kahoot.it/share/review-of-commands-git-bash/c1718366-8b18-4a3b-a634-c666331201cc">Kahoot</a>, <a href="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Code Along: Terminus</a>, <a href="https://colab.research.google.com/drive/1r6ULZauwFnIL4eo_lyMxuLzywrc2CmC9?usp=sharing">Terminus Game Dictionary Colab</a>, <a href="https://learngitbranching.js.org/">Code Along: Git Branching</a></td>
+    <td>Tues 7/8 or Wed 7/9:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Check Ins + COVID19 Data Analysis </td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1A9kN6RUCRjXv0_ydjNbh63D94QPWv62gm3QpBm2csDM/edit?gid=907513029#gid=907513029">SCRUM Slides</a>, <a href="">COVID19 Data Analysis</a>
   </tr>
   <tr>
-    <td>Thurs 10/31 or Sat 11/2:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> <b>NO TIGER TEAMS! Happy Halloween!</b> </td>
-    <td></td>
+    <td>7/10:</td>
+    <td><span class="label label-green">LECTURE</span> Healthcare Technology + Pandas + Ethics in AI </td>
+    <td><a href="https://docs.google.com/presentation/d/1-1H1tHC9x4Bw3DfvbyRvpspkMS-Fpe7DF3WyR2p0PkE/edit?slide=id.p#slide=id.p">Healthcare and Technology</a>, <a href="https://docs.google.com/presentation/d/1Rs9M2LW_9n_J03IVVSZSSXDf17ORY1hRwHCvxvnR9QQ/edit?slide=id.g13bafd10a5f_0_58#slide=id.g13bafd10a5f_0_58">Algorithmic Medicine</a></td>
   </tr>
 </table>
 
