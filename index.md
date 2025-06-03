@@ -67,39 +67,41 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Week 1
 <table>
   <tr>
-    <td>Mon 9/30:</td>
-    <td><span class="label label-green">LECTURE</span> Launch Day & Discrepancies in CS Education </td>
-    <td><a href="https://docs.google.com/presentation/d/1tC73h3vBL_O77YNScw-DJ9GWeLTu_vPek1oEoD9TozI/edit?usp=sharing">Slides</a></td>
+    <td>Monday 6/9:</td>
+    <td><span class="label label-green">LECTURE</span> Launch Day & Cohort Logistics and Setup </td>
+    <td></td>
   </tr>
+
   <tr>
-    <td>Wed 10/2:</td>
-    <td><span class="label label-green">LECTURE</span> Python Review + Learning Lab: Object Oriented Programming </td>
-    <td><a href="https://create.kahoot.it/share/review-of-python-basics/5922a08b-12b3-43a4-bc6d-8f935e4c8533">Kahoot</a>, <a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Python Calculator Colab</a>, <a href="https://docs.google.com/document/d/1MUAdr1Pd2fJgUEqltH1rWrsJQ6S7RsqXwUid8lmOkiM/edit?usp=sharing">Superhero Battle Simulator</a></td>
-  </tr>
-  <tr>
-    <td>Thurs 10/3 or Sat 10/5:</td>
+    <td>Wednesday 6/10 or Tuesday 6/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Environment Setup </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ebxk-WscVo-n-AXMM62zbI88XOoV7Y-UArpuBWaPOPw/edit?usp=share_link">SCRUM Slides</a></td>
+  </tr>
+    <tr>
+    <td>Thursday 6/12:</td>
+    <td><span class="label label-green">LECTURE</span>Discrepancies in Computer Science Education + Python Review</td>
+    <td><a href="https://play.kahoot.it/v2/?quizId=5922a08b-12b3-43a4-bc6d-8f935e4c8533&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/document/d/15-DN7nyCy9XPDK24ED91_1SS6IABOsJhJhCiFSZA-94/edit?usp=share_link">Discrepancies in CS Education</a>, <a href="https://docs.google.com/document/d/1rBz5hykmYjq89UhwA77_hf_bXkfTOT0PmwgmLMYojKM/edit?usp=sharing">Superhero Battle Simulator</a></td>
   </tr>
 </table>
 
 ### Week 2
 <table>
   <tr>
-    <td>Mon 10/7:</td>
-    <td><span class="label label-green">LECTURE</span> Career Exposure Panel & Using Tech for Social Justice </td>
-    <td><a href="https://drive.google.com/file/d/13GXRut967041BO4ylaTKngcxyPlpChWL/view?usp=sharing">Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/11InC8XXw2JvWPFuQ22ZdbeE3ZFUNpB9EZLxt3AVGn3M/edit?usp=sharing">Slides</a></td>
+    <td>Mon 6/16:</td>
+    <td><span class="label label-green">LECTURE</span> Identity Development Workshop 1 of 2 + Using Technology for Social Justice</td>
+    <td> <a href="https://docs.google.com/presentation/d/1Vo-JY4Lr7dMj51iM-FuCFLqvf1b_a_xZz09Z4Db2F5A/edit?usp=sharing">Slides</a>, <a href="https://play.kahoot.it/v2/?quizId=3d760fd6-b1c1-4a23-9706-8992736c433f&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2"> Kahoot </a></td>
   </tr>
   <tr>
-    <td>Wed 10/9:</td>
-    <td><span class="label label-green">LECTURE</span> Data Literacy & Computational Thinking + Learning Lab: CRUD Operations </td>
-    <td><a href="https://docs.google.com/presentation/d/1PDbdWzDJ004kM1cy2zMjqfDvLrMN2-7yUaBcK_-5ThA/edit?usp=sharing">Data Literacy Slides</a>, <a href="https://docs.google.com/presentation/d/15UGx1o3D5rjj6tz-smFmHxvr2TJySQJ69ozoBMzqQUw/edit?usp=sharing">Computational Thinking Slides</a>, <a href="https://docs.google.com/document/d/1Z4YXbWi3hocjmrAhjJ3-YA__woTU3zguEcltrr_QtTs/edit?usp=sharing">Cookbook Instructions</a>, <a href="https://colab.research.google.com/drive/1amYfGYV6BDKfUtRuYwjQP8V0WVRNwEfB?usp=sharing">Cookbook Colab</a></td>
-  </tr>
-  <tr>
-    <td>Thurs 10/10 or Sat 10/12:</td>
+    <td>Tues 6/17 or Wed 6/18:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Social Justice Checklist </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ebxk-WscVo-n-AXMM62zbI88XOoV7Y-UArpuBWaPOPw/edit?usp=share_link">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
   </tr>
+  <tr>
+    <td>Thur 10/9:</td>
+    <td><span class="label label-green">LECTURE</span> <b>Juneteenth - NO LECTURE!</b></td>
+    <td></td>
+  </tr>
+
 </table>
 
 ### Week 3
