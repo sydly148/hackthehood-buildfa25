@@ -107,28 +107,36 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
 ### Week 3
 <table>
   <tr>
-    <td>Mon 10/14:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Indigenous People's Day - NO LECTURE!</b> </td>
-    <td></td>
+    <td>Mon 6/23:</td>
+    <td><span class="label label-green">LECTURE</span> <b>Career Exposure Panel + Data Literacy and Computational Thinking</b> </td>
+    <td>
+    <a href="https://docs.google.com/presentation/d/14OnNtH4pYhZaVldZMYgi4B_2kdhaMZpZaKqkxI3br38/edit?usp=sharing">
+    What is Data Literacy [slides]
+    </a>, <a href="https://docs.google.com/presentation/d/1SQ99K7aTPG6ECHBPNTKkXbt3haq4Upjtk-F2SbM_Hgk/edit?usp=sharing">
+    Computational Thinking, Problem Solving and Programming [slides], <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
+    </a>
+    </td>
+  </tr>
+    <tr>
+    <td>Tues 6/24 or Wed 6/25:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Superhero Battle Simulator </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://docs.google.com/document/d/1dQBHtzAwhsKqpzDC3uYhX9i09n2HioBkDR1sfGkzbH8/edit?usp=sharing">Superhero Battle Simulator [documentation]</a></td>
   </tr>
   <tr>
-    <td>Wed 10/16:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science and Pandas + Learning Lab: Introduction to Pandas </td>
-    <td><a href="https://create.kahoot.it/share/what-do-you-know-about-ds/3d760fd6-b1c1-4a23-9706-8992736c433f">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1XeyaEb2a56DUql8L8MCrDsU8mrJYmBU1DWYNkC0ODuc/edit?usp=sharing">What is Data Science? Slides</a>, <a href="https://docs.google.com/presentation/d/1AvSLUCzT73Rr25NKmXSdzoM6UeeSYc3MtRZRFXjotUM/edit?usp=sharing">Using Pandas for Data Science Slides</a>, <a href="https://colab.research.google.com/drive/16YWRdzdgoV0gF7gVf-BeHwsUMyOZkTXU?usp=sharing">Learning Lab</a></td>
+    <td>Thur 6/26:</td>
+    <td><span class="label label-green">LECTURE</span> Data Science + Data Driven Change</td>
+    <td><a href="https://play.kahoot.it/v2/?quizId=a074bb64-a11a-4e0a-b1ad-24a2a0368c22&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1OYrdU-hzAMnhKguJdF_NV0iVIC5DUyA4Bc4jONCQxZ8/edit?usp=sharing">Data-Driven Change Advocacy
+ [slides]</a>, <a href="https://docs.google.com/presentation/d/1Vcsn4VEY-PZp5G3ATdQ2-9g-IrabphLrbb2voEGbhok/edit?usp=drive_link">What is Data Science? [slides]</a>
   </tr>
-  <tr>
-    <td>Thurs 10/17 or Sat 10/19:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Data Analysis for Social Change </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1eKUh-AFT9IWGVEEvhVgrn5doH5AT1pDr?usp=sharing">Data Analysis for Social Change Colab</a></td>
-  </tr>
+
 </table>
 
 ### Week 4
 <table>
   <tr>
-    <td>Mon 10/21:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td><a href="https://drive.google.com/file/d/1PBgxdgqjiX6eJJeOhijebCMxa6-lhkum/view?usp=sharing">Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
+    <td>Mon 6/30:</td>
+    <td><span class="label label-green">LECTURE</span> Identity Dev Workshop 2 of 2 + Using Python for Data Science</td>
+    <td><a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/23:</td>
