@@ -102,29 +102,32 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 
 ### Week 3
 <table>
-  <tr>
-    <td>Mon 6/23:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Career Exposure Panel + Data Literacy and Computational Thinking</b> </td>
-    <td>
-    <a href="https://docs.google.com/presentation/d/14OnNtH4pYhZaVldZMYgi4B_2kdhaMZpZaKqkxI3br38/edit?usp=sharing">
-    What is Data Literacy [slides]
-    </a>, <a href="https://docs.google.com/presentation/d/1SQ99K7aTPG6ECHBPNTKkXbt3haq4Upjtk-F2SbM_Hgk/edit?usp=sharing">
-    Computational Thinking, Problem Solving and Programming [slides] </a>, <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
-    </a>
-    </td>
-  </tr>
-    <tr>
-    <td>Tues 6/24 or Wed 6/25:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Superhero Battle Simulator </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://docs.google.com/document/d/1dQBHtzAwhsKqpzDC3uYhX9i09n2HioBkDR1sfGkzbH8/edit?usp=sharing">Superhero Battle Simulator [documentation]</a></td>
-  </tr>
-  <tr>
-    <td>Thur 6/26:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science + Data Driven Change</td>
-    <td><a href="https://play.kahoot.it/v2/?quizId=a074bb64-a11a-4e0a-b1ad-24a2a0368c22&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1OYrdU-hzAMnhKguJdF_NV0iVIC5DUyA4Bc4jONCQxZ8/edit?usp=sharing">Data-Driven Change Advocacy
- [slides]</a>, <a href="https://docs.google.com/presentation/d/1Vcsn4VEY-PZp5G3ATdQ2-9g-IrabphLrbb2voEGbhok/edit?usp=drive_link">What is Data Science? [slides]</a>
-  </tr>
-
+<tr>
+  <td>Mon 6/23:</td>
+  <td><span class="label label-green">LECTURE</span> <b>Career Exposure Panel + Data Literacy and Computational Thinking</b></td>
+  <td>
+    <a href="https://docs.google.com/presentation/d/14OnNtH4pYhZaVldZMYgi4B_2kdhaMZpZaKqkxI3br38/edit?usp=sharing">What is Data Literacy [slides]</a>,
+    <a href="https://docs.google.com/presentation/d/1SQ99K7aTPG6ECHBPNTKkXbt3haq4Upjtk-F2SbM_Hgk/edit?usp=sharing">Computational Thinking, Problem Solving and Programming [slides]</a>,
+    <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
+  </td>
+</tr>
+<tr>
+  <td>Tues 6/24 or Wed 6/25:</td>
+  <td><span class="label label-yellow">TIGER TEAM</span> Superhero Battle Simulator</td>
+  <td>
+    <a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>,
+    <a href="https://docs.google.com/document/d/1dQBHtzAwhsKqpzDC3uYhX9i09n2HioBkDR1sfGkzbH8/edit?usp=sharing">Superhero Battle Simulator [documentation]</a>
+  </td>
+</tr>
+<tr>
+  <td>Thur 6/26:</td>
+  <td><span class="label label-green">LECTURE</span> Data Science + Data Driven Change</td>
+  <td>
+    <a href="https://play.kahoot.it/v2/?quizId=a074bb64-a11a-4e0a-b1ad-24a2a0368c22&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>,
+    <a href="https://docs.google.com/presentation/d/1OYrdU-hzAMnhKguJdF_NV0iVIC5DUyA4Bc4jONCQxZ8/edit?usp=sharing">Data-Driven Change Advocacy [slides]</a>,
+    <a href="https://docs.google.com/presentation/d/1Vcsn4VEY-PZp5G3ATdQ2-9g-IrabphLrbb2voEGbhok/edit?usp=drive_link">What is Data Science? [slides]</a>
+  </td>
+</tr>
 </table>
 
 ### Week 4
