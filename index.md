@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 # Welcome to Hack the Hood: Build!
-[Google Classroom] (https://classroom.google.com/c/NTg2NzU3MDk3MzAz?cjc=cjpne5d){: .btn .btn-blue }
+[Google Classroom](https://classroom.google.com/c/NTg2NzU3MDk3MzAz?cjc=cjpne5d){: .btn .btn-blue }
 [Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-purple }
 
 Welcome to the course website for Hack the Hood's Build Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
@@ -110,7 +110,6 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     What is Data Literacy [slides]
     </a>, <a href="https://docs.google.com/presentation/d/1SQ99K7aTPG6ECHBPNTKkXbt3haq4Upjtk-F2SbM_Hgk/edit?usp=sharing">
     Computational Thinking, Problem Solving and Programming [slides] </a>, <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
-    </a>
     </td>
   </tr>
     <tr>
@@ -143,7 +142,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     <tr>
     <td>Thur 7/3:</td>
     <td><span class="label label-green">LECTURE</span> Technical Benevolence + Data Manipulation with Pandas</td>
-    <td><a href=" https://create.kahoot.it/details/duplicate-of-pandas-quiz/38549ef6-7d95-4836-b1f9-4ac6439f52f1">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Technical Benevolece? [slides]</a>, <a href="https://docs.google.com/presentation/d/1utykXINYBckSJqBjMzysQVwrCaiIPrmVn1kspwjnpos/edit?usp=sharing">More Pandas Data Manipulation [slides]</a>, <a href="https://docs.google.com/presentation/d/1vy7lnbOuwmfOIFWVtF31fGzEzFmnxSvODQ0QfZrjkWM/edit?usp=sharing">Python Data Visualization [slides]</a>
+    <td><a href="https://create.kahoot.it/details/duplicate-of-pandas-quiz/38549ef6-7d95-4836-b1f9-4ac6439f52f1">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Technical Benevolece? [slides]</a>, <a href="https://docs.google.com/presentation/d/1utykXINYBckSJqBjMzysQVwrCaiIPrmVn1kspwjnpos/edit?usp=sharing">More Pandas Data Manipulation [slides]</a>, <a href="https://docs.google.com/presentation/d/1vy7lnbOuwmfOIFWVtF31fGzEzFmnxSvODQ0QfZrjkWM/edit?usp=sharing">Python Data Visualization [slides]</a>
   </tr>
 </table>
 
@@ -201,7 +200,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
   <tr>
     <td>Tues 7/22 or Wed 7/23:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Using GitHub as a Team </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href="https://docs.google.com/presentation/d/14eXlmOa7wcFXzar3ksUD7sUY5I36lE7_zgPbZcA2Su4/edit?slide=id.g157e33d59c7_0_503#slide=id.g157e33d59c7_0_503)">Using GitHub as a Team Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href="https://docs.google.com/presentation/d/14eXlmOa7wcFXzar3ksUD7sUY5I36lE7_zgPbZcA2Su4/edit?slide=id.g157e33d59c7_0_503#slide=id.g157e33d59c7_0_503">Using GitHub as a Team Slides</a></td>
   </tr>
   
   <tr>
