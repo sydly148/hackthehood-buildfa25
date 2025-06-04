@@ -151,6 +151,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     <td>Thur 7/3:</td>
     <td><span class="label label-green">LECTURE</span> Technical Benevolence + Data Manipulation with Pandas</td>
     <td><a href="https://create.kahoot.it/details/duplicate-of-pandas-quiz/38549ef6-7d95-4836-b1f9-4ac6439f52f1">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Technical Benevolece? [slides]</a>, <a href="https://docs.google.com/presentation/d/1utykXINYBckSJqBjMzysQVwrCaiIPrmVn1kspwjnpos/edit?usp=sharing">More Pandas Data Manipulation [slides]</a>, <a href="https://docs.google.com/presentation/d/1vy7lnbOuwmfOIFWVtF31fGzEzFmnxSvODQ0QfZrjkWM/edit?usp=sharing">Python Data Visualization [slides]</a>
+    </td>
   </tr>
 </table>
 
@@ -165,6 +166,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     <td>Tues 7/8 or Wed 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Check Ins + COVID19 Data Analysis </td>
     <td><a href="https://docs.google.com/spreadsheets/d/1A9kN6RUCRjXv0_ydjNbh63D94QPWv62gm3QpBm2csDM/edit?gid=907513029#gid=907513029">SCRUM Slides</a>, <a href="">COVID19 Data Analysis</a>
+    </td>
   </tr>
   <tr>
     <td>Thursday 7/10:</td>
