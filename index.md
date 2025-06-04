@@ -99,6 +99,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 
 </table>
 
+
 ### Week 3
 <table>
   <tr>
@@ -108,7 +109,7 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     <a href="https://docs.google.com/presentation/d/14OnNtH4pYhZaVldZMYgi4B_2kdhaMZpZaKqkxI3br38/edit?usp=sharing">
     What is Data Literacy [slides]
     </a>, <a href="https://docs.google.com/presentation/d/1SQ99K7aTPG6ECHBPNTKkXbt3haq4Upjtk-F2SbM_Hgk/edit?usp=sharing">
-    Computational Thinking, Problem Solving and Programming [slides], <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
+    Computational Thinking, Problem Solving and Programming [slides] </a>, <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
     </a>
     </td>
   </tr>
