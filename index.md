@@ -136,17 +136,18 @@ Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackth
   <tr>
     <td>Mon 6/30:</td>
     <td><span class="label label-green">LECTURE</span> Identity Dev Workshop 2 of 2 + Using Python for Data Science</td>
-    <td><a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Ro4kkMT8oxaSaqMjfyiTEts7WOrjVuO-Ry3hv42PzNU/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1Qvu94w5OamtazMqtacVKux8ojk63tnpTEiytB0UXvrA/edit?usp=sharing">Learning Lab: Chipotle Data Analysis</a></td>
   </tr>
+
   <tr>
-    <td>Wed 10/23:</td>
-    <td><span class="label label-green">LECTURE</span> Pandas Data Manipulation + Learning Lab: More Pandas & Visualization </td>
-    <td><a href="https://docs.google.com/presentation/d/17bKVZr5c_dkqsG6nqinvKnUJTX2hPt6PKK3XxkIvs1Q/edit?usp=sharing">More Pandas Data Manipulation Slides</a>, <a href="https://docs.google.com/presentation/d/1BwIkln48NMvADEcXtzn3y8rrl5Tr-DNFX90OBTVndYE/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/19gv1YqrTQCmBOJcnDw0toJeC5CYsPyq2?usp=sharing">Learning Lab</a>, <a href="https://colab.research.google.com/drive/1tb1iLDHj2ydyGT43gOZ3EhWXJvbaik9C?usp=sharing">Learning Lab Example Code</a></td>
-  </tr>
-  <tr>
-    <td>Thurs 10/24 or Sat 10/26:</td>
+    <td>Tues 7/1 or Wed 7/2:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> McDonald's Menu Data Analysis </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://drive.google.com/drive/folders/1irBnQR4apQXbF9Lt7l0fIx97baUW2zgt?usp=drive_link">McDonald's Menu Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://colab.research.google.com/drive/1UWncjMTTiXqA4Csb6RbQ-HoJG0izi78g?usp=sharing">Data Analysis for Social Change Colab</a></td>
+  </tr>
+    <tr>
+    <td>Thur 7/3:</td>
+    <td><span class="label label-green">LECTURE</span> Technical Benevolence + Data Manipulation with Pandas</td>
+    <td><a href=" https://create.kahoot.it/details/duplicate-of-pandas-quiz/38549ef6-7d95-4836-b1f9-4ac6439f52f1">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Technical Benevolece? [slides]</a>, <a href="https://docs.google.com/presentation/d/1utykXINYBckSJqBjMzysQVwrCaiIPrmVn1kspwjnpos/edit?usp=sharing">More Pandas Data Manipulation [slides]</a>, <a href="https://docs.google.com/presentation/d/1vy7lnbOuwmfOIFWVtF31fGzEzFmnxSvODQ0QfZrjkWM/edit?usp=sharing">Python Data Visualization [slides]</a>
   </tr>
 </table>
 
