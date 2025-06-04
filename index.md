@@ -159,17 +159,23 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
   <tr>
     <td>Mon 7/14:</td>
     <td><span class="label label-green">LECTURE</span> Dangerous Minds + Machine Learning Code Along </td>
-    <td><a href="https://drive.google.com/drive/folders/1a6lG8GM7Mkbllv9_hA-isBKFgCfkbxUP?usp=sharing">Workshop Recording + Slides</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a>,
+<a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1A2yEG5zMRyrvu4Ips2i82Z9Q7mEmdKlT3ijpI87JTWs/edit?slide=id.p#slide=id.p">Machine Learning with Python Slides</a>, 
+      <a href="https://www.codementor.io/@garethdwyer/introduction-to-machine-learning-with-python-and-repl-it-rln7ywkhc">Learning Lab: Simple Machine Learning</a></td>
   </tr>
+ 
+  
   <tr>
-    <td>Wed 11/6:</td>
-    <td><span class="label label-green">LECTURE</span> Machine Learning with Python + Learning Lab: Machine Learning </td>
-    <td><a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1A2yEG5zMRyrvu4Ips2i82Z9Q7mEmdKlT3ijpI87JTWs/edit?slide=id.p#slide=id.p">Machine Learning with Python Slides</a>, <a href="https://colab.research.google.com/drive/15g6ibTIA_H_Am9bCguiZEbv12KGGQvq_?usp=sharing">Code Along: Intro to Practicing Machine Learning</a>, <a href="https://colab.research.google.com/drive/1hcc6MGEWubLdnUso_QxAR1-rjRBakfsF?usp=sharing">Learning Lab: Machine Learning</a>, <a href="https://colab.research.google.com/drive/1NpuvZhcRZItLfBm7pE9p1LrNFWCF2o45?usp=sharing">Learning Lab: Machine Learning Example Code</a></td>
+    <td>Tues 7/15 or Wed 7/16:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Understanding AI/LLM Limitations </td>
+    <td><a href="https://techcrunch.com/2024/08/27/why-ai-cant-spell-strawberry/">Why AI Can't Spell Strawberry</a>, <a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit?slide=id.g139d478e6a4_0_150#slide=id.g139d478e6a4_0_150">SCRUM Slides</a>
+      </td>
   </tr>
+  
   <tr>
-    <td>Thurs 11/7 or Sat 11/9:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1owqsDYnHzvny2xwVlACUSPS_LOf-gFUm?usp=sharing">Spotify Music Recommendations Colab</a></td>
+    <td>Thurs 7/17:</td>
+    <td><b>Company Tour + Mock Interviews</b></td>
+    <td></td>
   </tr>
 </table>
 
