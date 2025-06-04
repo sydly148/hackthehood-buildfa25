@@ -203,19 +203,19 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 ### Week 8
 <table>
   <tr>
-    <td>Mon 11/18:</td>
-    <td><span class="label label-green">LECTURE</span> Identity Development & Social Entrepreneurship </td>
-    <td>Workshop Zoom Recording, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Social Entrepreneurship Slides</a></td>
+    <td>Mon 7/28:</td>
+    <td><span class="label label-green">LECTURE</span> Intersection of Health + Tech Career Panel + Check-Ins + Missing Activities </td>
+    <td>Instructors will meet with tiger team members individually for a check-in. Learners will also get a chance to catch up on missing activities.</td>
   </tr>
   <tr>
-    <td>Wed 11/20:</td>
-    <td><span class="label label-green">LECTURE</span> Catch Up </td>
-    <td></td>
+    <td>Tues 7/29 or Wed 7/30:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span>Check-Ins + Missing Activities</td>
+    <td>See above</td>
   </tr>
   <tr>
     <td>Thurs 11/21 or Sat 11/23:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Catch Up </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><span class="label label-green">LECTURE</span>The Economics of Minority-Owned Businesses</td>
+    <td><a href="">Economics of Minority-Owned Businesses Slides</a></td>
   </tr>
 </table>
 
