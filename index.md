@@ -182,19 +182,21 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 ### Week 7
 <table>
   <tr>
-    <td>Mon 11/11:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Veteran's Day! NO LECTURE!</b> </td>
-    <td></td>
+    <td>Mon 7/21:</td>
+    <td><span class="label label-green">LECTURE</span> Web Development + Digital Marketing Panel + Community Building</td>
+    <td><a href = "https://docs.google.com/presentation/d/1KAG3Lk6yXRa4E0vyRrsfuNBK_xKje1ELo9Mmz79Ctsg/edit?slide=id.p#slide=id.p">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/document/d/1bAJaNnuVRKZKxodZdT3Yw0qF4cdJps-J_RNgt3IEVaM/edit?tab=t.0#heading=h.ez614kabi8r5">Learning Lab: Bias in AI </a></td>
   </tr>
   <tr>
-    <td>Wed 11/13:</td>
-    <td><span class="label label-green">LECTURE</span> Large Language Models & Ethics in AI + Learning Lab: Comparing AI Tools </td>
-    <td><a href="https://create.kahoot.it/details/33c0a7d5-9802-4310-928d-80644c684cf5">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1zk5eD2lOibxaCQmugZUQK3eVRmTp4nvT8FA-F3izFRQ/edit?usp=sharing">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a>, <a href="https://colab.research.google.com/drive/1Kd0AuVzhumqAkNEKD3d2D4jftQIyOmLc?usp=sharing">Learning Lab: Comparing AI Tools</a></td>
+    <td>Tues 7/22 or Wed 7/23:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Using GitHub as a Team </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href="https://docs.google.com/presentation/d/14eXlmOa7wcFXzar3ksUD7sUY5I36lE7_zgPbZcA2Su4/edit?slide=id.g157e33d59c7_0_503#slide=id.g157e33d59c7_0_503)">Using GitHub as a Team Slides</a></td>
   </tr>
+  
   <tr>
-    <td>Thurs 11/14 or Sat 11/16:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td>Thurs 7/24:</td>
+    <td><span class="label label-green">LECTURE</span> Social Media + the Egyptian Revolution + Terminal </td>
+    <td><a href="">Social Media and the Egyptian Revolution Slides</a>, <a href ="https://docs.google.com/presentation/d/1unpM5CfKc0LcUa6oIDKaL2v7iOdDxGKf8y-vRxD0TGk/edit?slide=id.g120e43809ab_0_156#slide=id.g120e43809ab_0_156">Understanding Your Work Environment Slides</a>, <a href ="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Terminus Game</a> 
+    </td>
   </tr>
 </table>
 
