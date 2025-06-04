@@ -118,10 +118,18 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
     <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://docs.google.com/document/d/1dQBHtzAwhsKqpzDC3uYhX9i09n2HioBkDR1sfGkzbH8/edit?usp=sharing">Superhero Battle Simulator [documentation]</a></td>
   </tr>
   <tr>
-    <td>Thur 6/26:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science + Data Driven Change</td>
-    <td><a href="https://play.kahoot.it/v2/?quizId=a074bb64-a11a-4e0a-b1ad-24a2a0368c22&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1OYrdU-hzAMnhKguJdF_NV0iVIC5DUyA4Bc4jONCQxZ8/edit?usp=sharing">Data-Driven Change Advocacy
- [slides]</a>, <a href="https://docs.google.com/presentation/d/1Vcsn4VEY-PZp5G3ATdQ2-9g-IrabphLrbb2voEGbhok/edit?usp=drive_link">What is Data Science? [slides]</a>
+    <td>Thur 6/26:
+    </td>
+    <td><span class="label label-green">LECTURE</span> Data Science + Data Driven Change
+    </td>
+      <td>
+            <a href="https://play.kahoot.it/v2/?quizId=a074bb64-a11a-4e0a-b1ad-24a2a0368c22&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1OYrdU-hzAMnhKguJdF_NV0iVIC5DUyA4Bc4jONCQxZ8/edit?usp=sharing">Data-Driven Change Advocacy
+          [slides]
+          </a>
+          , <a href="https://docs.google.com/presentation/d/1Vcsn4VEY-PZp5G3ATdQ2-9g-IrabphLrbb2voEGbhok/edit?usp=drive_link">
+          What is Data Science? [slides]
+        </a>
+      </td>
   </tr>
 
 </table>
