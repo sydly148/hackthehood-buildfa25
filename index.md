@@ -62,76 +62,87 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 ### Week 1
 <table>
   <tr>
-    <td>Mon 9/30:</td>
-    <td><span class="label label-green">LECTURE</span> Launch Day & Discrepancies in CS Education </td>
-    <td><a href="https://docs.google.com/presentation/d/1tC73h3vBL_O77YNScw-DJ9GWeLTu_vPek1oEoD9TozI/edit?usp=sharing">Slides</a></td>
+    <td>Monday 6/9:</td>
+    <td><span class="label label-green">LECTURE</span> Launch Day & Cohort Logistics and Setup </td>
+    <td></td>
   </tr>
+
   <tr>
-    <td>Wed 10/2:</td>
-    <td><span class="label label-green">LECTURE</span> Python Review + Learning Lab: Object Oriented Programming </td>
-    <td><a href="https://create.kahoot.it/share/review-of-python-basics/5922a08b-12b3-43a4-bc6d-8f935e4c8533">Kahoot</a>, <a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Python Calculator Colab</a>, <a href="https://docs.google.com/document/d/1MUAdr1Pd2fJgUEqltH1rWrsJQ6S7RsqXwUid8lmOkiM/edit?usp=sharing">Superhero Battle Simulator</a></td>
-  </tr>
-  <tr>
-    <td>Thurs 10/3 or Sat 10/5:</td>
+    <td>Wednesday 6/10 or Tuesday 6/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Environment Setup </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ebxk-WscVo-n-AXMM62zbI88XOoV7Y-UArpuBWaPOPw/edit?usp=share_link">SCRUM Slides</a></td>
+  </tr>
+    <tr>
+    <td>Thursday 6/12:</td>
+    <td><span class="label label-green">LECTURE</span>Discrepancies in Computer Science Education + Python Review</td>
+    <td><a href="https://play.kahoot.it/v2/?quizId=5922a08b-12b3-43a4-bc6d-8f935e4c8533&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/document/d/15-DN7nyCy9XPDK24ED91_1SS6IABOsJhJhCiFSZA-94/edit?usp=share_link">Discrepancies in CS Education</a>, <a href="https://docs.google.com/document/d/1rBz5hykmYjq89UhwA77_hf_bXkfTOT0PmwgmLMYojKM/edit?usp=sharing">Superhero Battle Simulator</a></td>
   </tr>
 </table>
 
 ### Week 2
 <table>
   <tr>
-    <td>Mon 10/7:</td>
-    <td><span class="label label-green">LECTURE</span> Career Exposure Panel & Using Tech for Social Justice </td>
-    <td><a href="https://drive.google.com/file/d/13GXRut967041BO4ylaTKngcxyPlpChWL/view?usp=sharing">Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/11InC8XXw2JvWPFuQ22ZdbeE3ZFUNpB9EZLxt3AVGn3M/edit?usp=sharing">Slides</a></td>
+    <td>Mon 6/16:</td>
+    <td><span class="label label-green">LECTURE</span> Identity Development Workshop 1 of 2 + Using Technology for Social Justice</td>
+    <td> <a href="https://docs.google.com/presentation/d/1Vo-JY4Lr7dMj51iM-FuCFLqvf1b_a_xZz09Z4Db2F5A/edit?usp=sharing">Slides</a>, <a href="https://play.kahoot.it/v2/?quizId=3d760fd6-b1c1-4a23-9706-8992736c433f&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2"> Kahoot </a></td>
   </tr>
   <tr>
-    <td>Wed 10/9:</td>
-    <td><span class="label label-green">LECTURE</span> Data Literacy & Computational Thinking + Learning Lab: CRUD Operations </td>
-    <td><a href="https://docs.google.com/presentation/d/1PDbdWzDJ004kM1cy2zMjqfDvLrMN2-7yUaBcK_-5ThA/edit?usp=sharing">Data Literacy Slides</a>, <a href="https://docs.google.com/presentation/d/15UGx1o3D5rjj6tz-smFmHxvr2TJySQJ69ozoBMzqQUw/edit?usp=sharing">Computational Thinking Slides</a>, <a href="https://docs.google.com/document/d/1Z4YXbWi3hocjmrAhjJ3-YA__woTU3zguEcltrr_QtTs/edit?usp=sharing">Cookbook Instructions</a>, <a href="https://colab.research.google.com/drive/1amYfGYV6BDKfUtRuYwjQP8V0WVRNwEfB?usp=sharing">Cookbook Colab</a></td>
-  </tr>
-  <tr>
-    <td>Thurs 10/10 or Sat 10/12:</td>
+    <td>Tues 6/17 or Wed 6/18:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Social Justice Checklist </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ebxk-WscVo-n-AXMM62zbI88XOoV7Y-UArpuBWaPOPw/edit?usp=share_link">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1nuuNJmBJ0gxs8UvZWLht_yJiyKm0_ZVn?usp=sharing">Social Justice Colab</a></td>
   </tr>
+  <tr>
+    <td>Thur 10/9:</td>
+    <td><span class="label label-green">LECTURE</span> <b>Juneteenth - NO LECTURE!</b></td>
+    <td></td>
+  </tr>
+
 </table>
 
 ### Week 3
 <table>
   <tr>
-    <td>Mon 10/14:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Indigenous People's Day - NO LECTURE!</b> </td>
-    <td></td>
+    <td>Mon 6/23:</td>
+    <td><span class="label label-green">LECTURE</span> <b>Career Exposure Panel + Data Literacy and Computational Thinking</b> </td>
+    <td>
+    <a href="https://docs.google.com/presentation/d/14OnNtH4pYhZaVldZMYgi4B_2kdhaMZpZaKqkxI3br38/edit?usp=sharing">
+    What is Data Literacy [slides]
+    </a>, <a href="https://docs.google.com/presentation/d/1SQ99K7aTPG6ECHBPNTKkXbt3haq4Upjtk-F2SbM_Hgk/edit?usp=sharing">
+    Computational Thinking, Problem Solving and Programming [slides], <a href="https://docs.google.com/document/d/wa1-_dtw21MRe1K5-ShWQ08NX54BSUj-FibKW_a2RdtPeI/edit?usp=sharing">Alarm Clock Pseudo Code Activity [instructions]</a>
+    </a>
+    </td>
+  </tr>
+    <tr>
+    <td>Tues 6/24 or Wed 6/25:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Superhero Battle Simulator </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://docs.google.com/document/d/1dQBHtzAwhsKqpzDC3uYhX9i09n2HioBkDR1sfGkzbH8/edit?usp=sharing">Superhero Battle Simulator [documentation]</a></td>
   </tr>
   <tr>
-    <td>Wed 10/16:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science and Pandas + Learning Lab: Introduction to Pandas </td>
-    <td><a href="https://create.kahoot.it/share/what-do-you-know-about-ds/3d760fd6-b1c1-4a23-9706-8992736c433f">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1XeyaEb2a56DUql8L8MCrDsU8mrJYmBU1DWYNkC0ODuc/edit?usp=sharing">What is Data Science? Slides</a>, <a href="https://docs.google.com/presentation/d/1AvSLUCzT73Rr25NKmXSdzoM6UeeSYc3MtRZRFXjotUM/edit?usp=sharing">Using Pandas for Data Science Slides</a>, <a href="https://colab.research.google.com/drive/16YWRdzdgoV0gF7gVf-BeHwsUMyOZkTXU?usp=sharing">Learning Lab</a></td>
+    <td>Thur 6/26:</td>
+    <td><span class="label label-green">LECTURE</span> Data Science + Data Driven Change</td>
+    <td><a href="https://play.kahoot.it/v2/?quizId=a074bb64-a11a-4e0a-b1ad-24a2a0368c22&hostId=d01cc365-8430-4168-b396-cea6a1e8eda2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1OYrdU-hzAMnhKguJdF_NV0iVIC5DUyA4Bc4jONCQxZ8/edit?usp=sharing">Data-Driven Change Advocacy
+ [slides]</a>, <a href="https://docs.google.com/presentation/d/1Vcsn4VEY-PZp5G3ATdQ2-9g-IrabphLrbb2voEGbhok/edit?usp=drive_link">What is Data Science? [slides]</a>
   </tr>
-  <tr>
-    <td>Thurs 10/17 or Sat 10/19:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Data Analysis for Social Change </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1eKUh-AFT9IWGVEEvhVgrn5doH5AT1pDr?usp=sharing">Data Analysis for Social Change Colab</a></td>
-  </tr>
+
 </table>
 
 ### Week 4
 <table>
   <tr>
-    <td>Mon 10/21:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td><a href="https://drive.google.com/file/d/1PBgxdgqjiX6eJJeOhijebCMxa6-lhkum/view?usp=sharing">Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
+    <td>Mon 6/30:</td>
+    <td><span class="label label-green">LECTURE</span> Identity Dev Workshop 2 of 2 + Using Python for Data Science</td>
+    <td><a href="https://docs.google.com/presentation/d/1Ro4kkMT8oxaSaqMjfyiTEts7WOrjVuO-Ry3hv42PzNU/edit?usp=sharing">Using Pandas for Data Science</a>, <a href="https://docs.google.com/presentation/d/1Qvu94w5OamtazMqtacVKux8ojk63tnpTEiytB0UXvrA/edit?usp=sharing">Learning Lab: Chipotle Data Analysis</a></td>
   </tr>
+
   <tr>
-    <td>Wed 10/23:</td>
-    <td><span class="label label-green">LECTURE</span> Pandas Data Manipulation + Learning Lab: More Pandas & Visualization </td>
-    <td><a href="https://docs.google.com/presentation/d/17bKVZr5c_dkqsG6nqinvKnUJTX2hPt6PKK3XxkIvs1Q/edit?usp=sharing">More Pandas Data Manipulation Slides</a>, <a href="https://docs.google.com/presentation/d/1BwIkln48NMvADEcXtzn3y8rrl5Tr-DNFX90OBTVndYE/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/19gv1YqrTQCmBOJcnDw0toJeC5CYsPyq2?usp=sharing">Learning Lab</a>, <a href="https://colab.research.google.com/drive/1tb1iLDHj2ydyGT43gOZ3EhWXJvbaik9C?usp=sharing">Learning Lab Example Code</a></td>
-  </tr>
-  <tr>
-    <td>Thurs 10/24 or Sat 10/26:</td>
+    <td>Tues 7/1 or Wed 7/2:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> McDonald's Menu Data Analysis </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://drive.google.com/drive/folders/1irBnQR4apQXbF9Lt7l0fIx97baUW2zgt?usp=drive_link">McDonald's Menu Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM [slides]</a>, <a href="https://colab.research.google.com/drive/1UWncjMTTiXqA4Csb6RbQ-HoJG0izi78g?usp=sharing">Data Analysis for Social Change Colab</a></td>
+  </tr>
+    <tr>
+    <td>Thur 7/3:</td>
+    <td><span class="label label-green">LECTURE</span> Technical Benevolence + Data Manipulation with Pandas</td>
+    <td><a href=" https://create.kahoot.it/details/duplicate-of-pandas-quiz/38549ef6-7d95-4836-b1f9-4ac6439f52f1">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Technical Benevolece? [slides]</a>, <a href="https://docs.google.com/presentation/d/1utykXINYBckSJqBjMzysQVwrCaiIPrmVn1kspwjnpos/edit?usp=sharing">More Pandas Data Manipulation [slides]</a>, <a href="https://docs.google.com/presentation/d/1vy7lnbOuwmfOIFWVtF31fGzEzFmnxSvODQ0QfZrjkWM/edit?usp=sharing">Python Data Visualization [slides]</a>
   </tr>
 </table>
 
