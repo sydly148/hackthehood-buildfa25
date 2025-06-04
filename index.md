@@ -8,52 +8,47 @@ nav_order: 1
 [Google Classroom](https://classroom.google.com/c/NTg2NzU3MDk3MzAz?cjc=cjpne5d){: .btn .btn-blue }
 [Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-purple }
 
-Welcome to the course website for Hack the Hood's Build Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
+Welcome to the course website for Hack the Hood's Build Program for Summer 2025 ☀️. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
-Lectures: Mondays and Wednesdays (10:00 am-12:30 pm PST)  
-Learning Labs: Mondays (12:30pm-1:30pm PST)
-Tiger Teams: Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PST)
-Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:example@example.com">jovita@hackthehood.org</a>)  
+<b>Lectures:</b> Mondays and Wednesdays (10:00 am-12:30 pm PST)  
+<b>Learning Labs:</b> Mondays (12:30pm-1:30pm PST)
+<b>Tiger Teams:</b> Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PST)
+<b>Instructors:</b> Anas Aly (<a href="mailto:anas@hackthehood.org">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:jovita@hackthehood.org">jovita@hackthehood.org</a>)  
 
 ## Week 1 Announcements
-
-### Asynchronous Tiger Team Schedule
+### Assignments Due:
+- Nothing yet!
+### Reminders:
+- Relax!
+### Tiger Team Schedule
 <table>
   <tr>
-    <td><b>Tiger Team Color - Instructor</b></td>
-    <td><b>New Async Tiger Team Time</b></td>
+    <td><b>Tiger Team Color</b></td>
+    <td><b>Tiger Team Time</b></td>
   </tr>
   <tr>
-    <td style="background-color: #FF7F7F;">Red Tiger Team - Parker</td>
-    <td style="background-color: #FF7F7F;">Mondays 4pm-6pm</td>
+    <td style="background-color: #FF7F7F;">Red Tiger Team</td>
+    <td style="background-color: #FF7F7F;">Tuesdays 10am-12pm PT</td>
   </tr>
   <tr>
-    <td style="background-color: #ADD8E6;">Blue Tiger Team - Sydney</td>
-    <td style="background-color: #ADD8E6;">Wednesdays 4pm-6pm</td>
+    <td style="background-color: #ADD8E6;">Blue Tiger Team</td>
+    <td style="background-color: #ADD8E6;">Tuesdays 1pm-3pm PT</td>
+  </tr>
+    <tr>
+    <td style="background-color: #D8BFD8;">Purple Tiger Team</td>
+    <td style="background-color: #D8BFD8;">Tuesdays 4pm-6pm PT</td>
+  </tr>
+    <tr>
+    <td style="background-color: #F0E68C;">Yellow Tiger Team</td>
+    <td style="background-color: #F0E68C;">Wednesdays 10am-12pm PT</td>
   </tr>
   <tr>
-    <td style="background-color: #90EE90;">Green Tiger Team - Parker</td>
-    <td style="background-color: #90EE90;">Tuesdays 6pm-8pm</td>
+    <td style="background-color: #90EE90;">Green Tiger Team</td>
+    <td style="background-color: #90EE90;">Wednesdays 1pm-3pm PT</td>
   </tr>
   <tr>
-    <td style="background-color: #D8BFD8;">Purple Tiger Team - Sydney</td>
-    <td style="background-color: #D8BFD8;">Mondays 4:30pm-6:30pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #F0E68C;">Yellow Tiger Team - Parker</td>
-    <td style="background-color: #F0E68C;">Wednesdays 5pm-7pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #FFB6C1;">Pink Tiger Team - Sydney</td>
-    <td style="background-color: #FFB6C1;">Tuesdays 5pm-7pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #D3D3D3;">Gray Tiger Team - Parker</td>
-    <td style="background-color: #D3D3D3;">Tuesdays 4pm-6pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #FFD580;">Orange Tiger Team - Sydney</td>
-    <td style="background-color: #FFD580;">Wednesdays 5pm-7pm</td>
+    <td style="background-color: #FFD580;">Orange Tiger Team</td>
+    <td style="background-color: #FFD580;">Wednesdays 4pm-6pm PT</td>
   </tr>
 </table>
 
