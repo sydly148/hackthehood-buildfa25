@@ -5,18 +5,23 @@ nav_order: 1
 ---
 
 # Welcome to Hack the Hood: Build!
-[Google Classroom] (https://classroom.google.com/c/NTg2NzU3MDk3MzAz?cjc=cjpne5d){: .btn .btn-blue }
-[Zoom Link](https://us06web.zoom.us/j/83460208773){: .btn .btn-purple }
+[Google Classroom](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0){: .btn .btn-blue }
+[Zoom Link](https://us06web.zoom.us/j/3435754269){: .btn .btn-purple }
 
-Welcome to the course website for Hack the Hood's Build Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
+Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
-Lectures: Mondays and Wednesdays (10:00 am-12:30 pm PST)  
-Learning Labs: Mondays (12:30pm-1:30pm PST)
-Tiger Teams: Tuesday or Wednesday (10am-12pm, 1pm-3pm, 4-6pm PST)
-Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org</a>) & Jovita Sofia Jiz de Ortega (<a href="mailto:example@example.com">jovita@hackthehood.org</a>)  
+Lectures: Mondays (4:30 pm-7:00 pm) and Wednesdays (4:00 pm-7:30 pm)  
+Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00 pm-7:00 pm), Purple (6:00 pm-8:00 pm)  
+Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
+Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
 
-## Week 1 Announcements
-
+## Week 11 Announcements
+### Assignments Due:
+- Submit your third final project checkpoint on Google Classroom!
+### Reminders:
+- Catch up on any assignments you're missing on Google Classroom!
+- **RSVP for graduation [here](https://www.eventbrite.com/e/hack-the-hood-fall-graduation-tickets-1096463414589)!**
+- **FILL OUT THE POST-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2mz6eyUfuAdJsto)!**
 ### Asynchronous Tiger Team Schedule
 <table>
   <tr>
@@ -138,84 +143,76 @@ Instructors: Anas Aly (<a href="mailto:example@example.com">anas@hackthehood.org
 ### Week 5
 <table>
   <tr>
-    <td>Mon 7/7:</td>
-    <td><span class="label label-green">LECTURE</span> New Relic Data Science Career Panel + Data Science Applications </td>
-    <td><a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World</a>, <a href="https://docs.google.com/presentation/d/1ir7HVVmgNJejBvMAF6FkPNcYeDeeE1wh7cZVHe-vCoo/edit?usp=sharing">Team Data Exploration Chipotle Data Analysis</a></td>
+    <td>Mon 10/28:</td>
+    <td><span class="label label-green">LECTURE</span> Identity Development & Digital Cookie Crumbs </td>
+    <td><a href="https://docs.google.com/presentation/d/1dEo7nviFS9cDggaCL6iBgkhHkxA5QskC5wLMupB74SE/edit?usp=sharing">Storytelling Slides</a>, <a href="https://docs.google.com/presentation/d/10pVhezOtlNoJhyr5KB1IZhrgTjjRLZCBGvTIzyvIkJw/edit?usp=sharing">Digital Cookie Crumbs Slides</a></td>
   </tr>
   <tr>
-    <td>Tues 7/8 or Wed 7/9:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Check Ins + COVID19 Data Analysis </td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1A9kN6RUCRjXv0_ydjNbh63D94QPWv62gm3QpBm2csDM/edit?gid=907513029#gid=907513029">SCRUM Slides</a>, <a href="">COVID19 Data Analysis</a>
+    <td>Wed 10/30:</td>
+    <td><span class="label label-green">LECTURE</span> Command Line & Version Control + Learning Lab: CLI and Git </td>
+    <td><a href="https://docs.google.com/presentation/d/1kaRmEraxoPQnF_YDOXSXEnsPK69zjMFsBTioePlJrIQ/edit?usp=sharing">Understanding Your Work Environment Slides</a>, <a href="https://create.kahoot.it/share/review-of-commands-git-bash/c1718366-8b18-4a3b-a634-c666331201cc">Kahoot</a>, <a href="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Code Along: Terminus</a>, <a href="https://colab.research.google.com/drive/1r6ULZauwFnIL4eo_lyMxuLzywrc2CmC9?usp=sharing">Terminus Game Dictionary Colab</a>, <a href="https://learngitbranching.js.org/">Code Along: Git Branching</a></td>
   </tr>
   <tr>
-    <td>Thursday 7/10:</td>
-    <td><span class="label label-green">LECTURE</span> Healthcare Technology + Pandas + Ethics in AI </td>
-    <td><a href="https://docs.google.com/presentation/d/1-1H1tHC9x4Bw3DfvbyRvpspkMS-Fpe7DF3WyR2p0PkE/edit?slide=id.p#slide=id.p">Healthcare and Technology</a>, <a href="https://docs.google.com/presentation/d/1Rs9M2LW_9n_J03IVVSZSSXDf17ORY1hRwHCvxvnR9QQ/edit?slide=id.g13bafd10a5f_0_58#slide=id.g13bafd10a5f_0_58">Algorithmic Medicine</a></td>
+    <td>Thurs 10/31 or Sat 11/2:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> <b>NO TIGER TEAMS! Happy Halloween!</b> </td>
+    <td></td>
   </tr>
 </table>
 
 ### Week 6
 <table>
   <tr>
-    <td>Mon 7/14:</td>
-    <td><span class="label label-green">LECTURE</span> Dangerous Minds + Machine Learning Code Along </td>
-    <td><a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a>,
-<a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1A2yEG5zMRyrvu4Ips2i82Z9Q7mEmdKlT3ijpI87JTWs/edit?slide=id.p#slide=id.p">Machine Learning with Python Slides</a>, 
-      <a href="https://www.codementor.io/@garethdwyer/introduction-to-machine-learning-with-python-and-repl-it-rln7ywkhc">Learning Lab: Simple Machine Learning</a></td>
+    <td>Mon 11/4:</td>
+    <td><span class="label label-green">LECTURE</span> LinkedIn Workshop & Dangerous Minds </td>
+    <td><a href="https://drive.google.com/drive/folders/1a6lG8GM7Mkbllv9_hA-isBKFgCfkbxUP?usp=sharing">Workshop Recording + Slides</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
   </tr>
- 
-  
   <tr>
-    <td>Tues 7/15 or Wed 7/16:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Understanding AI/LLM Limitations </td>
-    <td><a href="https://techcrunch.com/2024/08/27/why-ai-cant-spell-strawberry/">Why AI Can't Spell Strawberry</a>, <a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit?slide=id.g139d478e6a4_0_150#slide=id.g139d478e6a4_0_150">SCRUM Slides</a>
-      </td>
+    <td>Wed 11/6:</td>
+    <td><span class="label label-green">LECTURE</span> Machine Learning with Python + Learning Lab: Machine Learning </td>
+    <td><a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1j4c2qJzjfMU1tGNVyhS2pXb16O4zY7DmPGTCZxakbmw/edit?usp=sharing">Machine Learning with Python Slides</a>, <a href="https://colab.research.google.com/drive/15g6ibTIA_H_Am9bCguiZEbv12KGGQvq_?usp=sharing">Code Along: Intro to Practicing Machine Learning</a>, <a href="https://colab.research.google.com/drive/1hcc6MGEWubLdnUso_QxAR1-rjRBakfsF?usp=sharing">Learning Lab: Machine Learning</a>, <a href="https://colab.research.google.com/drive/1NpuvZhcRZItLfBm7pE9p1LrNFWCF2o45?usp=sharing">Learning Lab: Machine Learning Example Code</a></td>
   </tr>
-  
   <tr>
-    <td>Thurs 7/17:</td>
-    <td><b>Company Tour + Mock Interviews</b></td>
-    <td></td>
+    <td>Thurs 11/7 or Sat 11/9:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1owqsDYnHzvny2xwVlACUSPS_LOf-gFUm?usp=sharing">Spotify Music Recommendations Colab</a></td>
   </tr>
 </table>
 
 ### Week 7
 <table>
   <tr>
-    <td>Mon 7/21:</td>
-    <td><span class="label label-green">LECTURE</span> Web Development + Digital Marketing Panel + Community Building</td>
-    <td><a href = "https://docs.google.com/presentation/d/1KAG3Lk6yXRa4E0vyRrsfuNBK_xKje1ELo9Mmz79Ctsg/edit?slide=id.p#slide=id.p">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/document/d/1bAJaNnuVRKZKxodZdT3Yw0qF4cdJps-J_RNgt3IEVaM/edit?tab=t.0#heading=h.ez614kabi8r5">Learning Lab: Bias in AI </a></td>
+    <td>Mon 11/11:</td>
+    <td><span class="label label-green">LECTURE</span> <b>Veteran's Day! NO LECTURE!</b> </td>
+    <td></td>
   </tr>
   <tr>
-    <td>Tues 7/22 or Wed 7/23:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Using GitHub as a Team </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href="https://docs.google.com/presentation/d/14eXlmOa7wcFXzar3ksUD7sUY5I36lE7_zgPbZcA2Su4/edit?slide=id.g157e33d59c7_0_503#slide=id.g157e33d59c7_0_503)">Using GitHub as a Team Slides</a></td>
+    <td>Wed 11/13:</td>
+    <td><span class="label label-green">LECTURE</span> Large Language Models & Ethics in AI + Learning Lab: Comparing AI Tools </td>
+    <td><a href="https://create.kahoot.it/details/33c0a7d5-9802-4310-928d-80644c684cf5">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1zk5eD2lOibxaCQmugZUQK3eVRmTp4nvT8FA-F3izFRQ/edit?usp=sharing">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a>, <a href="https://colab.research.google.com/drive/1Kd0AuVzhumqAkNEKD3d2D4jftQIyOmLc?usp=sharing">Learning Lab: Comparing AI Tools</a></td>
   </tr>
-  
   <tr>
-    <td>Thurs 7/24:</td>
-    <td><span class="label label-green">LECTURE</span> Social Media + the Egyptian Revolution + Terminal </td>
-    <td><a href="">Social Media and the Egyptian Revolution Slides</a>, <a href ="https://docs.google.com/presentation/d/1unpM5CfKc0LcUa6oIDKaL2v7iOdDxGKf8y-vRxD0TGk/edit?slide=id.g120e43809ab_0_156#slide=id.g120e43809ab_0_156">Understanding Your Work Environment Slides</a>, <a href ="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Terminus Game</a> 
-    </td>
+    <td>Thurs 11/14 or Sat 11/16:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
   </tr>
 </table>
 
 ### Week 8
 <table>
   <tr>
-    <td>Mon 7/28:</td>
-    <td><span class="label label-green">LECTURE</span> Intersection of Health + Tech Career Panel + Check-Ins + Missing Activities </td>
-    <td>Instructors will meet with tiger team members individually for a check-in. Learners will also get a chance to catch up on missing activities.</td>
+    <td>Mon 11/18:</td>
+    <td><span class="label label-green">LECTURE</span> Identity Development & Social Entrepreneurship </td>
+    <td>Workshop Zoom Recording, <a href="https://docs.google.com/presentation/d/1QMfp6PSA3df4yd_MDsPvnCp9nIokquPsDXQ32SQ3Fdc/edit?usp=sharing">Social Entrepreneurship Slides</a></td>
   </tr>
   <tr>
-    <td>Tues 7/29 or Wed 7/30:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span>Check-Ins + Missing Activities</td>
-    <td>See above</td>
+    <td>Wed 11/20:</td>
+    <td><span class="label label-green">LECTURE</span> Catch Up </td>
+    <td></td>
   </tr>
   <tr>
     <td>Thurs 11/21 or Sat 11/23:</td>
-    <td><span class="label label-green">LECTURE</span>The Economics of Minority-Owned Businesses</td>
-    <td><a href="">Economics of Minority-Owned Businesses Slides</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Catch Up </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
   </tr>
 </table>
 
