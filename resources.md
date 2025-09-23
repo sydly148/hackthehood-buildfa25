@@ -14,7 +14,7 @@ nav_order: 3
   </tr>
   <tr>
     <td>Student Handbook</td>
-    <td><a href="https://sites.google.com/hackthehood.org/fallprograms2025/contact?authuser=0">Build Program Overview</a></td>
+    <td><a href="https://sites.google.com/hackthehood.org/fallprograms2025/contact?authuser=0">Student Handbook</a></td>
   </tr>
   <tr>
     <td>Program Overview</td>
