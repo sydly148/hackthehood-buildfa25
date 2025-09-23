@@ -6,19 +6,15 @@ nav_order: 3
 <table>
   <tr>
     <td>Zoom Meeting Link</td>
-    <td><a href="https://us06web.zoom.us/j/3435754269">Zoom Link</a></td>
+    <td><a href="https://us06web.zoom.us/j/82510167584">Zoom Link</a></td>
   </tr>
   <tr>
     <td>Google Classroom</td>
-    <td><a href="https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0">Google Classroom</a></td>
+    <td><a href="https://classroom.google.com/u/2/c/ODEzNTgzMDc0MTc1">Google Classroom</a></td>
   </tr>
   <tr>
-    <td>Colab</td>
-    <td><a href="https://drive.google.com/drive/folders/19G6POOqEd0mvbXDSHZAq64kbmhPdiZ05?usp=sharing">Colab</a></td>
-  </tr>
-  <tr>
-    <td>Curriculum Map</td>
-    <td><a href="https://docs.google.com/spreadsheets/d/11Aq0QawP034qL_rAGsC7Lnye3R1vRy67ZQze8zohf3w/edit?usp=sharing">Build Fall 2024 Curriculum Map</a></td>
+    <td>Student Handbook</td>
+    <td><a href="https://sites.google.com/hackthehood.org/fallprograms2025/contact?authuser=0">Build Program Overview</a></td>
   </tr>
   <tr>
     <td>Program Overview</td>
