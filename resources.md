@@ -3,6 +3,9 @@ title: Resources
 layout: home
 nav_order: 3
 ---
+<h1>Resources</h1>  
+
+
 <table>
   <tr>
     <td>Zoom Meeting Link</td>
