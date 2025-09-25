@@ -81,7 +81,7 @@ nav_order: 6
 
   <div class="instructors">
     <div class="instructor">
-      <img src="" alt="Zewdi Herring">
+      <img src="images/zewdi.jpeg" alt="Zewdi Herring">
       <div class="name">
         Zewdi Herring
         <span class="pronouns">she/her/hers</span>
@@ -98,7 +98,7 @@ nav_order: 6
     </div>
 
     <div class="instructor">
-      <img src="" alt="Sydney Ly">
+      <img src="images/sydney.jpg" alt="Sydney Ly">
       <div class="name">
         Sydney Ly
         <span class="pronouns">she/her/hers</span>
@@ -112,7 +112,7 @@ nav_order: 6
     </div>
 
     <div class="instructor">
-      <img src="" alt="Aitanna Parker">
+      <img src="images/aitanna.png" alt="Aitanna Parker">
       <div class="name">
         Aitanna Parker
         <span class="pronouns">she/her/hers</span>
