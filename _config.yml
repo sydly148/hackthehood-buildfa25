@@ -1,6 +1,6 @@
 title: "Hack the Hood: Build"
 description: "A starter template for a Jeykll site using the Just the Docs theme!"
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://just-the-docs.github.io
 baseurl: "/hackthehood-buildfa25"
@@ -21,3 +21,6 @@ just_the_docs:
 
 just_the_docs:
   color_scheme: light
+
+plugins:
+  - jekyll-remote-theme
