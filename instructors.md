@@ -35,8 +35,8 @@ nav_order: 6
     }
 
     .instructor img {
-      width: 120px;
-      height: 120px;
+      width: 160px;
+      height: 160px;
       border-radius: 50%;
       object-fit: cover;
       margin-bottom: 10px;
