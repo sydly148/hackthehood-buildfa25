@@ -1,11 +1,11 @@
 ---
-title: Staff
+title: Instructors
 layout: home
 nav_order: 6
 ---
 <h1>Meet your Instructors</h1>  
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -74,7 +74,6 @@ nav_order: 6
   </style>
 </head>
 <body>
-  <h2>Meet the instructors</h2>
   <p>
     We are very excited to teach you this fall! If you have logistical questions or concerns,
     please reach out to us via email or Slack!
