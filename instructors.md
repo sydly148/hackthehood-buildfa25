@@ -107,7 +107,10 @@ nav_order: 6
         <a href="mailto:sydney@hackthehood.org">sydney@hackthehood.org</a>
       </div>
       <div class="bio">
-        quack
+        Hi! My name is Sydney and I use she/her pronouns. I graduated from UC Berkeley last year with degrees
+        in Cognitive Science and Data Science. I taught the Build program for Hack the Hood in Fall 2024, so I'm super
+        excited to meet you all this fall! In my free time, I like to cook, read, and spend time with my friends.
+        If you see this, tell me your favorite Pokemon! Mine are Umbreon and Lucario :)
       </div>
     </div>
 
