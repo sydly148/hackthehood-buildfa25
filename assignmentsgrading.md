@@ -9,7 +9,7 @@ nav_order: 4
   <p>Students will be graded in six areas: Pre-Program Survey, Labs/Google Classroom Assignments,	Participation,	Attendance,	Post-Program Survey, and the Final Project.</p>
 
   <h2>Pre-Program Survey</h2>
-    <p>The pre-program survey is needed from all learners and counts for $50 of your final stipend. You can find the survey <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_868cbkmwljABiSO">here</a>. </p>
+    <p>The pre-program survey is needed from all learners and counts for $50 of your final stipend. You can find the survey <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_3KK9VGKhyUdxMcm">here</a>. </p>
 
   <h2>Labs/Google Classroom Assignments</h2>
     <p>Exit tickets must be submitted to the appropriate Google Classroom assignment after each lecture session. There will also be Tiger Teams assignments and other assignments due on Google Classroom. Completion of these assignments will contribute to $100 of your final stipend.</p>
