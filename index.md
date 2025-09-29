@@ -14,7 +14,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 **Instructors**: Zewdi Herring (<a href="mailto:example@example.com">zewdi@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)   
 **TA**: Aitanna Parker (<a href="mailto:example@example.com">aitanna@hackthehood.org</a>)
 
-### Tiger Team Schedule (might need to change)
+### Tiger Team Schedule
 <table>
   <tr>
     <td><b>Tiger Team Color - Instructor</b></td>
