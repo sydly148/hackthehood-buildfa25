@@ -64,7 +64,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   
 ---
 
-### Week 1 (needs links)
+### Week 1
 <table>
   <tr>
     <td>Mon 9/29:</td>
@@ -73,8 +73,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Wed 10/1:</td>
-    <td><span class="label label-green">LECTURE</span> Python Review + Introduction to Statistical Concepts </td>
-    <td><a href="https://create.kahoot.it/share/review-of-python-basics/5922a08b-12b3-43a4-bc6d-8f935e4c8533">Python Review Kahoot</a>, <a href="">Statistical Concepts Slides</a>, <a href="https://colab.research.google.com/drive/1-5-siN7N1miA4ZwJ8-ohUWdmjB1q0U21?usp=sharing">Python Calculator Colab</a></td>
+    <td><span class="label label-green">LECTURE</span> Python Review + Review of Statistical Concepts </td>
+    <td><a href="https://create.kahoot.it/share/review-of-python-basics/5922a08b-12b3-43a4-bc6d-8f935e4c8533">Python Review Kahoot</a>, <a href="https://docs.google.com/presentation/d/12aUKc-m1S7W10mt2QIKCQBZAnaUg9KbJq-my6QsW1RU/edit?usp=sharing">Statistical Concepts Slides</a>, <a href="https://colab.research.google.com/drive/1stbogF4ZeKYkFg3dbvQUDtBB17WD3MA7?usp=sharing">Python Calculator Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/2 or Sat 10/4:</td>
