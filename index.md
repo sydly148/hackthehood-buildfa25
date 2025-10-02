@@ -14,42 +14,42 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 **Instructors**: Zewdi Herring (<a href="mailto:example@example.com">zewdi@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)   
 **TA**: Aitanna Parker (<a href="mailto:example@example.com">aitanna@hackthehood.org</a>)
 
-### Tiger Team Schedule
+### [Tiger Team Schedule](https://docs.google.com/presentation/d/1RhAlrSSOGA0ts5F9J1ojVL5lVulg6_KL8991g1OeFZU/edit?usp=sharing)
 <table>
   <tr>
     <td><b>Tiger Team Color - Instructor</b></td>
     <td><b>Tiger Team Time</b></td>
   </tr>
   <tr>
-    <td style="background-color: #FFD580;">Orange Tiger Team - Zewdi</td>
+    <td style="background-color: #FFD580;">Orange Tiger Team - Sydney</td>
     <td style="background-color: #FFD580;">Thursdays 3pm-5pm</td>
   </tr>
   <tr>
-    <td style="background-color: #ADD8E6;">Blue Tiger Team - Sydney</td>
+    <td style="background-color: #ADD8E6;">Blue Tiger Team - Zewdi</td>
     <td style="background-color: #ADD8E6;">Thursdays 4pm-6pm</td>
   </tr>
   <tr>
-    <td style="background-color: #FF7F7F;">Red Tiger Team - Zewdi</td>
+    <td style="background-color: #FF7F7F;">Red Tiger Team - Sydney</td>
     <td style="background-color: #FF7F7F;">Thursdays 5pm-7pm</td>
   </tr>
   <tr>
-    <td style="background-color: #F0E68C;">Yellow Tiger Team - Sydney</td>
+    <td style="background-color: #F0E68C;">Yellow Tiger Team - Zewdi</td>
     <td style="background-color: #F0E68C;">Thursdays 6pm-8pm</td>
   </tr>
   <tr>
-    <td style="background-color: #D8BFD8;">Purple Tiger Team - Zewdi</td>
+    <td style="background-color: #D8BFD8;">Purple Tiger Team - Sydney</td>
     <td style="background-color: #D8BFD8;">Saturdays 10am-12pm</td>
   </tr>
   <tr>
-    <td style="background-color: #90EE90;">Green Tiger Team - Sydney</td>
+    <td style="background-color: #90EE90;">Green Tiger Team - Zewdi</td>
     <td style="background-color: #90EE90;">Saturdays 11am-1pm</td>
   </tr>
   <tr>
-    <td style="background-color: #FFB6C1;">Pink Tiger Team - Zewdi</td>
+    <td style="background-color: #FFB6C1;">Pink Tiger Team - Sydney</td>
     <td style="background-color: #FFB6C1;">Saturdays 1pm-3pm</td>
   </tr>
   <tr>
-    <td style="background-color: #D3D3D3;">Black Tiger Team - Sydney</td>
+    <td style="background-color: #D3D3D3;">Black Tiger Team - Zewdi</td>
     <td style="background-color: #D3D3D3;">Saturdays 2pm-4pm</td>
   </tr>
 </table>
