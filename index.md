@@ -54,9 +54,9 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 1 Announcements
+## Week 2 Announcements
 ### Assignments Due:
-- Submit your Python Calculator to Google Classroom!
+- Submit your Lab 2 to Google Classroom!
 ### Reminders:
 - **FILL OUT THE PRE-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_3KK9VGKhyUdxMcm)!**
 - Make sure you have access to Google Classroom and Slack!
@@ -83,12 +83,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 2 (TBD)
+### Week 2
 <table>
   <tr>
     <td>Mon 10/6:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop & Using Tech for Social Justice </td>
-    <td><a href="https://docs.google.com/presentation/d/11InC8XXw2JvWPFuQ22ZdbeE3ZFUNpB9EZLxt3AVGn3M/edit?usp=sharing">Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1l2GiZrKD9FLzU106nUc3SqKhGGa4no_koPiMA3YrnpI/edit?usp=sharing">Using Tech for Social Justice Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/8:</td>
