@@ -59,7 +59,9 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 - Submit your Lab 2 to Google Classroom!
 ### Reminders:
 - **FILL OUT THE PRE-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_3KK9VGKhyUdxMcm)!**
-- Make sure you have access to Google Classroom and Slack!
+- Fill out the workshop survey!   
+- Join Slack [here](https://join.slack.com/t/fall2025learn-i9h9224/shared_invite/zt-3f8hijqs3-PoZq4UNLKk4V2Mfnb9KeiQ)!
+- The LAST laptop pickup/exchange date is **Thursday, 10/9 from 10am-4pm at 1721 Broadway, Oakland**!
 
   
 ---
@@ -93,7 +95,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Wed 10/8:</td>
     <td><span class="label label-green">LECTURE</span> Data Literacy & Computational Thinking + Learning Lab: Social Justice Checklist and Intro to Pandas </td>
-    <td><a href="">Data Literacy & Computational Thinking Slides</a>, <a href="https://docs.google.com/presentation/d/1Xeyjlmx_zHQ2Qkq1ukMQjVBwgRuK_jO9JHGZLs9ALRw/edit?usp=sharing">Python Review + Intro to Pandas Slides</a>, <a href="https://colab.research.google.com/drive/1sAHWG1ov2FV0fx6VXtqlMBnAY4_0urF-?usp=sharing">Lab 2 Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/10njVnztYSiAcvBRuzT3tX6Ybumi_rhRLB9ZIgGUws1k/edit?usp=sharing">Data Literacy & Computational Thinking Slides</a>, <a href="https://docs.google.com/presentation/d/1Xeyjlmx_zHQ2Qkq1ukMQjVBwgRuK_jO9JHGZLs9ALRw/edit?usp=sharing">Python Review + Intro to Pandas Slides</a>, <a href="https://colab.research.google.com/drive/1sAHWG1ov2FV0fx6VXtqlMBnAY4_0urF-?usp=sharing">Lab 2 Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/9 or Sat 10/10:</td>
