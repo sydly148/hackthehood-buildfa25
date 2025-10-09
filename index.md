@@ -57,6 +57,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 ## Week 2 Announcements
 ### Assignments Due:
 - Submit your Lab 2 to Google Classroom!
+- Submit your Week 2 Tiger Teams Assignment to Google Classroom!
 ### Reminders:
 - **FILL OUT THE PRE-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_3KK9VGKhyUdxMcm)!**
 - Fill out the workshop survey!   
@@ -98,9 +99,9 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
     <td><a href="https://docs.google.com/presentation/d/10njVnztYSiAcvBRuzT3tX6Ybumi_rhRLB9ZIgGUws1k/edit?usp=sharing">Data Literacy & Computational Thinking Slides</a>, <a href="https://docs.google.com/presentation/d/1Xeyjlmx_zHQ2Qkq1ukMQjVBwgRuK_jO9JHGZLs9ALRw/edit?usp=sharing">Python Review + Intro to Pandas Slides</a>, <a href="https://colab.research.google.com/drive/1sAHWG1ov2FV0fx6VXtqlMBnAY4_0urF-?usp=sharing">Lab 2 Colab</a></td>
   </tr>
   <tr>
-    <td>Thurs 10/9 or Sat 10/10:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Social Justice Checklist </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="">TT Assignment Colab</a></td>
+    <td>Thurs 10/9 or Sat 10/11:</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Strings, Lists, and Pandas </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1fPBuStFEeWTbPX0hFWbjgCoGT8UWqfpx?usp=sharing">Strings, Lists, and Pandas Colab</a></td>
   </tr>
 </table>
 
