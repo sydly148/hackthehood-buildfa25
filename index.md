@@ -54,15 +54,13 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 2 Announcements
+## Week 3 Announcements
 ### Assignments Due:
-- Submit your Lab 2 to Google Classroom!
 - Submit your Week 2 Tiger Teams Assignment to Google Classroom!
+- Submit your Lab 3 to Google Classroom!
 ### Reminders:
-- **FILL OUT THE PRE-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_3KK9VGKhyUdxMcm)!**
-- Fill out the workshop survey!   
-- Join Slack [here](https://join.slack.com/t/fall2025learn-i9h9224/shared_invite/zt-3f8hijqs3-PoZq4UNLKk4V2Mfnb9KeiQ)!
-- The LAST laptop pickup/exchange date is **Thursday, 10/9 from 10am-4pm at 1721 Broadway, Oakland**!
+- Fill out the post-workshop survey!   
+- Join Slack [here](https://join.slack.com/t/fall2025learn-i9h9224/shared_invite/zt-3f8hijqs3-PoZq4UNLKk4V2Mfnb9KeiQ)!  
 
   
 ---
@@ -105,7 +103,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 3 (TBD)
+### Week 3
 <table>
   <tr>
     <td>Mon 10/13:</td>
@@ -114,8 +112,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Wed 10/15:</td>
-    <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + Using Pandas for Data Science </td>
-    <td><a href="https://docs.google.com/presentation/d/1XeyaEb2a56DUql8L8MCrDsU8mrJYmBU1DWYNkC0ODuc/edit?usp=sharing">What is Data Science? Slides</a>, <a href="https://docs.google.com/presentation/d/1AvSLUCzT73Rr25NKmXSdzoM6UeeSYc3MtRZRFXjotUM/edit?usp=sharing">Using Pandas for Data Science Slides</a>, <a href="https://colab.research.google.com/drive/16YWRdzdgoV0gF7gVf-BeHwsUMyOZkTXU?usp=sharing">Learning Lab</a></td>
+    <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + More Pandas for Data Science </td>
+    <td><a href="https://docs.google.com/presentation/d/1JSAnVIoIOr2LtfhjGUCoTgYmCTCb2PW1_PymLaguTEU/edit?usp=sharing">What is Data Science? Slides</a>, <a href="https://docs.google.com/presentation/d/1VFksg2kGfK2Wb40zDswV7sZLbxQS2BSb914ATQgWMZc/edit?usp=sharing">More Pandas for Data Science Slides</a>, <a href="https://colab.research.google.com/drive/109V61NTu2DeSzbh55sr4wUU4iBKUlM3b?usp=sharing">Lab 3 Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/16 or Sat 10/18:</td>
