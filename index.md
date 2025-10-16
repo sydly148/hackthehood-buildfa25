@@ -117,8 +117,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Thurs 10/16 or Sat 10/18:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Data Analysis for Social Change </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1eKUh-AFT9IWGVEEvhVgrn5doH5AT1pDr?usp=sharing">Data Analysis for Social Change Colab</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> More Pandas Practice </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/16Zk2Ju_pbdzIJKwbtC19zz3vkxzS7ZGy?usp=sharing">More Pandas Practice Colab</a></td>
   </tr>
 </table>
 
