@@ -54,13 +54,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 3 Announcements
+## Week 4 Announcements
 ### Assignments Due:
-- Submit your Week 2 Tiger Teams Assignment to Google Classroom!
-- Submit your Lab 3 to Google Classroom!
-### Reminders:
-- Fill out the post-workshop survey!   
-- Join Slack [here](https://join.slack.com/t/fall2025learn-i9h9224/shared_invite/zt-3f8hijqs3-PoZq4UNLKk4V2Mfnb9KeiQ)!  
+- Submit your Week 3 Tiger Teams Assignment to Google Classroom!
+- Submit your Lab 4 to Google Classroom!
+### Reminders: 
+- Fill out the post-career panel survey!
 
   
 ---
@@ -127,7 +126,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Mon 10/20:</td>
     <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td><a href="https://drive.google.com/file/d/1PBgxdgqjiX6eJJeOhijebCMxa6-lhkum/view?usp=sharing">Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/1Ez-9kCHIBajpAtq2t_Fb6x9QBt3inBmR8psa9q8LnP8/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1CLo8ys6IcgTFlVknZGXHRIRd2rwgiH-ERVKFbp4ZG6M/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
+    <td> <a href="https://docs.google.com/presentation/d/11ZOSGFluOMTpBpQb7PyaMrrYb1Ee2_zqtyT6IthIzhU/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1wgRzQV5bMmszyIdUgHpsV1rOei50rP4SbthjEvokhek/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/22:</td>
