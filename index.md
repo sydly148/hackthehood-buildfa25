@@ -131,7 +131,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Wed 10/22:</td>
     <td><span class="label label-green">LECTURE</span> Pandas Data Visualization + Learning Lab: More Pandas & Visualization </td>
-    <td><a href="https://docs.google.com/presentation/d/19LdRvfYjCd-F4ZrcaYDlIDhDjQd663LyuIaXwvU0Mmo/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1BTPmpD-Q2C9q3mTwQT12xTXIvDl7UbABQiBMu_QBIds/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/10DgghoXk9KRPw5Dt7IkWv1HpIZ27PpQn?usp=sharing">Lab 4 Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/19LdRvfYjCd-F4ZrcaYDlIDhDjQd663LyuIaXwvU0Mmo/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://colab.research.google.com/drive/1tRlIRl8ukHzBkgu3MQ5qBlfIt9KSBEsr?usp=sharing">Data Visualization Demo Colab</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1BTPmpD-Q2C9q3mTwQT12xTXIvDl7UbABQiBMu_QBIds/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/10DgghoXk9KRPw5Dt7IkWv1HpIZ27PpQn?usp=sharing">Lab 4 Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/23 or Sat 10/25:</td>
