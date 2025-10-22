@@ -59,7 +59,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 - Submit your Week 3 Tiger Teams Assignment to Google Classroom!
 - Submit your Lab 4 to Google Classroom!
 ### Reminders: 
-- Fill out the post-career panel survey!
+- Fill out the career panel post-survey!
 
   
 ---
@@ -121,7 +121,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 4 (TBD)
+### Week 4
 <table>
   <tr>
     <td>Mon 10/20:</td>
@@ -130,13 +130,13 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Wed 10/22:</td>
-    <td><span class="label label-green">LECTURE</span> Pandas Data Manipulation + Learning Lab: More Pandas & Visualization </td>
-    <td><a href="https://docs.google.com/presentation/d/17bKVZr5c_dkqsG6nqinvKnUJTX2hPt6PKK3XxkIvs1Q/edit?usp=sharing">More Pandas Data Manipulation Slides</a>, <a href="https://docs.google.com/presentation/d/1BwIkln48NMvADEcXtzn3y8rrl5Tr-DNFX90OBTVndYE/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/12b6R0EOVPPr9tlj1YkSDaWEnfIfhRmgzAwAO8NrHDuc/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/19gv1YqrTQCmBOJcnDw0toJeC5CYsPyq2?usp=sharing">Learning Lab</a>, <a href="https://colab.research.google.com/drive/1tb1iLDHj2ydyGT43gOZ3EhWXJvbaik9C?usp=sharing">Learning Lab Example Code</a></td>
+    <td><span class="label label-green">LECTURE</span> Pandas Data Visualization + Learning Lab: More Pandas & Visualization </td>
+    <td><a href="https://docs.google.com/presentation/d/19LdRvfYjCd-F4ZrcaYDlIDhDjQd663LyuIaXwvU0Mmo/edit?usp=sharing">Python Data Visualization Slides</a>, <a href="https://create.kahoot.it/share/python-pandas/38619786-2464-4fcb-a460-cdf00e706aa2">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1BTPmpD-Q2C9q3mTwQT12xTXIvDl7UbABQiBMu_QBIds/edit?usp=sharing">Data Science in the Real World Slides</a>, <a href="https://colab.research.google.com/drive/10DgghoXk9KRPw5Dt7IkWv1HpIZ27PpQn?usp=sharing">Lab 4 Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/23 or Sat 10/25:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> McDonald's Menu Data Analysis </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://drive.google.com/drive/folders/1irBnQR4apQXbF9Lt7l0fIx97baUW2zgt?usp=drive_link">McDonald's Menu Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="">McDonald's Menu Colab</a></td>
   </tr>
 </table>
 
