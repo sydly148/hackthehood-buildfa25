@@ -125,8 +125,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 <table>
   <tr>
     <td>Mon 10/20:</td>
-    <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology </td>
-    <td> <a href="https://docs.google.com/presentation/d/11ZOSGFluOMTpBpQb7PyaMrrYb1Ee2_zqtyT6IthIzhU/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1wgRzQV5bMmszyIdUgHpsV1rOei50rP4SbthjEvokhek/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
+    <td><span class="label label-green">LECTURE</span> Data Science Career Panel & Healthcare Technology</td>
+    <td><a href="https://drive.google.com/file/d/1ze1JSpoVhqFOZMhEIwvW_dRYaAkqHer1/view?usp=sharing">Career Panel Zoom Recording</a>, <a href="https://docs.google.com/presentation/d/11ZOSGFluOMTpBpQb7PyaMrrYb1Ee2_zqtyT6IthIzhU/edit?usp=sharing">Healthcare and Technology Slides</a>, <a href="https://docs.google.com/presentation/d/1wgRzQV5bMmszyIdUgHpsV1rOei50rP4SbthjEvokhek/edit?usp=sharing">Algorithmic Medicine Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/22:</td>
