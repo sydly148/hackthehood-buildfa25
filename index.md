@@ -56,7 +56,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 
 ## Week 4 Announcements
 ### Assignments Due:
-- Submit your Week 3 Tiger Teams Assignment to Google Classroom!
+- Submit your Week 4 Tiger Teams Assignment to Google Classroom!
 - Submit your Lab 4 to Google Classroom!
 ### Reminders: 
 - Fill out the career panel post-survey!
@@ -136,7 +136,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Thurs 10/23 or Sat 10/25:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> McDonald's Menu Data Analysis </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="">McDonald's Menu Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1PuoS87D7Xjw51-Amh-LiqriGsDEBu-hx?usp=sharing">Interpreting Visualizations Colab</a></td>
   </tr>
 </table>
 
