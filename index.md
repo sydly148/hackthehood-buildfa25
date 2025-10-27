@@ -54,12 +54,13 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 4 Announcements
+## Week 5 Announcements
 ### Assignments Due:
 - Submit your Week 4 Tiger Teams Assignment to Google Classroom!
 - Submit your Lab 4 to Google Classroom!
 ### Reminders: 
-- Fill out the career panel post-survey!
+- Fill out the identity workshop post-survey!
+- **NO TIGER TEAMS THIS WEEKEND!**
 
   
 ---
@@ -140,12 +141,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 5 (TBD)
+### Week 5
 <table>
   <tr>
     <td>Mon 10/27:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop & Digital Cookie Crumbs </td>
-    <td><a href="https://docs.google.com/presentation/d/1dEo7nviFS9cDggaCL6iBgkhHkxA5QskC5wLMupB74SE/edit?usp=sharing">Storytelling Slides</a>, <a href="https://docs.google.com/presentation/d/10pVhezOtlNoJhyr5KB1IZhrgTjjRLZCBGvTIzyvIkJw/edit?usp=sharing">Digital Cookie Crumbs Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1DiBPsoi9DiF4_3Vaa7YA0ncLTspzpkmx6_qC37BfEeE/edit?usp=sharing">Digital Cookie Crumbs Slides</a></td>
   </tr>
   <tr>
     <td>Wed 10/29:</td>
