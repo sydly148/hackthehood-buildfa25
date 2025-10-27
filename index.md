@@ -60,7 +60,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 - Submit your Lab 4 to Google Classroom!
 ### Reminders: 
 - Fill out the identity workshop post-survey!
-- **NO TIGER TEAMS THIS WEEKEND!**
+- **NO TIGER TEAMS THIS WEEK!**
 
   
 ---
