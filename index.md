@@ -150,7 +150,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Wed 10/29:</td>
     <td><span class="label label-green">LECTURE</span> Command Line & Version Control + Learning Lab: CLI and Git </td>
-    <td><a href="https://create.kahoot.it/share/review-of-commands-git-bash/c1718366-8b18-4a3b-a634-c666331201cc">Kahoot</a>, <a href="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Code Along: Terminus</a>, <a href="https://docs.google.com/presentation/d/1Kwr6hcenP2JXxDbYiijL7_G0B3cNO2b-C5ExvSOX4iQ/edit?usp=sharing">Git & Github Slides</a>, <a href="https://colab.research.google.com/drive/1wOd2FOeXTt7gYWDkm9PFU_eLOzFvjoJ4?usp=sharing">Lab 5 Colab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/11wx-FWgrH5kA2ZtpQuR5D97Qdy_qwHpXSOIVoSGOn44/edit?usp=sharing">Understanding your Work Envrionment Slides</a>, <a href="https://create.kahoot.it/share/review-of-commands-git-bash/c1718366-8b18-4a3b-a634-c666331201cc">Kahoot</a>, <a href="https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html">Code Along: Terminus</a>, <a href="https://docs.google.com/presentation/d/1Kwr6hcenP2JXxDbYiijL7_G0B3cNO2b-C5ExvSOX4iQ/edit?usp=sharing">Git & Github Slides</a>, <a href="https://colab.research.google.com/drive/1wOd2FOeXTt7gYWDkm9PFU_eLOzFvjoJ4?usp=sharing">Lab 5 Colab</a></td>
   </tr>
   <tr>
     <td>Thurs 10/30 or Sat 11/1:</td>
