@@ -154,8 +154,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Thurs 10/30 or Sat 11/1:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span>TBD</td>
-    <td>Assignment TBD</td>
+    <td><span class="label label-yellow">TIGER TEAM</span>Intro to SQL</td>
+    <td><a href="https://colab.research.google.com/drive/1Z1FXbwgiEQWQGqJk042h_o-VEKRfxcZS?usp=sharing&authuser=2">Intro to SQL Colab</a></td>
   </tr>
 </table>
 
