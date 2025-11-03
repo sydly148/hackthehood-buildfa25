@@ -54,12 +54,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 5 Announcements
+## Week 6 Announcements
 ### Assignments Due:
-- Submit your Week 4 Tiger Teams Assignment to Google Classroom!
-- Submit your Lab 5 to Google Classroom!
+- Submit your Week 5 Tiger Teams Assignment to Google Classroom!
+- Submit your Lab 6 to Google Classroom!
 ### Reminders: 
-- Fill out the identity workshop post-survey!
+- Fill out the resume building workshop post-survey!
 
   
 ---
@@ -159,12 +159,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 6 (TBD)
+### Week 6
 <table>
   <tr>
     <td>Mon 11/3:</td>
     <td><span class="label label-green">LECTURE</span> Resume Building Workshop & Dangerous Minds </td>
-    <td><a href="https://drive.google.com/drive/folders/1a6lG8GM7Mkbllv9_hA-isBKFgCfkbxUP?usp=sharing">Workshop Recording + Slides</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
   </tr>
   <tr>
     <td>Wed 11/5:</td>
