@@ -164,8 +164,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Mon 11/3:</td>
     <td><span class="label label-green">LECTURE</span> Resume Building Workshop & Dangerous Minds </td>
-    <td><a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
-  </tr>
+    <td><a href="https://docs.google.com/presentation/d/1-qRcDj7DM_SoAiYWtfeQvvRvXiM0J5Fjpty5AjUolZw/edit?usp=sharing">Resume Building Workshop Slides</a>, <a href="https://docs.google.com/presentation/d/1zPTpsC2LkzP9lN7U1hn1CHOmW_KYGIgu5cV3xCm4LF0/edit?usp=sharing">Dangerous Minds Slides</a></td>
+  </tr> 
   <tr>
     <td>Wed 11/5:</td>
     <td><span class="label label-green">LECTURE</span> Machine Learning with Python + Learning Lab: Machine Learning </td>
