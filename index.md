@@ -173,8 +173,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Thurs 11/6 or Sat 11/8:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1owqsDYnHzvny2xwVlACUSPS_LOf-gFUm?usp=sharing">Spotify Music Recommendations Colab</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Teach Me How to Predict - Part 1 </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/1uCBXhmGzv1tnmPeIXcceA9r8klJh1u1n?usp=sharing">Teach Me How to Predict Colab</a></td>
   </tr>
 </table>
 
