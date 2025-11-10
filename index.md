@@ -59,6 +59,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 - Submit your Week 6 Tiger Teams Assignment to Google Classroom!
 - Submit your Lab 7 to Google Classroom!
 ### Reminders: 
+- Fill out the [RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLScNhIlPylSc-EAcCSFEview3QPwzTKBMkZLloJ33-wdtKQ5lQ/viewform?usp=header) for the field trip on **Wednesday, November 19th**!
 - Fill out the career panel post-survey!
 
   
@@ -201,12 +202,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 <table>
   <tr>
     <td>Mon 11/17:</td>
-    <td><span class="label label-green">LECTURE</span> <b>FIELD TRIP! No lecture!</b> </td>
+    <td><span class="label label-green">LECTURE</span> Catch Up </td>
     <td></td>
   </tr>
   <tr>
     <td>Wed 11/19:</td>
-    <td><span class="label label-green">LECTURE</span> Catch Up </td>
+    <td><span class="label label-green">LECTURE</span> <b>FIELD TRIP! No lecture!</b> </td>
     <td></td>
   </tr>
   <tr>
