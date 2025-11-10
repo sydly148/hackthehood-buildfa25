@@ -54,12 +54,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 6 Announcements
+## Week 7 Announcements
 ### Assignments Due:
-- Submit your Week 5 Tiger Teams Assignment to Google Classroom!
-- Submit your Lab 6 to Google Classroom!
+- Submit your Week 6 Tiger Teams Assignment to Google Classroom!
+- Submit your Lab 7 to Google Classroom!
 ### Reminders: 
-- Fill out the resume building workshop post-survey!
+- Fill out the career panel post-survey!
 
   
 ---
@@ -169,7 +169,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Wed 11/5:</td>
     <td><span class="label label-green">LECTURE</span> Machine Learning with Python + Learning Lab: Introduction to Machine Learning </td>
-    <td><a href="https://docs.google.com/presentation/d/1Z33xlca21yErkuwPhqzAdGNfBJs8Bg_46KcKhTeLtuA/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1j4c2qJzjfMU1tGNVyhS2pXb16O4zY7DmPGTCZxakbmw/edit?usp=sharing">Machine Learning with Python Slides</a>, <a href="https://colab.research.google.com/drive/1ortm0mdHZJt4gAhJPO19nfNk6hZlnaNJ?usp=sharing">Code Along: Machine Learning</a>, <a href="https://colab.research.google.com/drive/1v4JUrKGsOxFCIdp9eh9ECAgNrbvbomfl?usp=sharing">Learning Lab: Introduction to Machine Learning</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1bN4vcONOX07U1PKEleT-75Hinagaj65xC6O0KHrHzTQ/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://docs.google.com/presentation/d/1j4c2qJzjfMU1tGNVyhS2pXb16O4zY7DmPGTCZxakbmw/edit?usp=sharing">Machine Learning with Python Slides</a>, <a href="https://colab.research.google.com/drive/1ortm0mdHZJt4gAhJPO19nfNk6hZlnaNJ?usp=sharing">Code Along: Machine Learning</a>, <a href="https://colab.research.google.com/drive/1v4JUrKGsOxFCIdp9eh9ECAgNrbvbomfl?usp=sharing">Learning Lab: Introduction to Machine Learning</a></td>
   </tr>
   <tr>
     <td>Thurs 11/6 or Sat 11/8:</td>
@@ -178,12 +178,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 7 (TBD)
+### Week 7
 <table>
   <tr>
     <td>Mon 11/10:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Non Traditional Tech Careers Panel & The Economics of Minority Owned Businesses</b> </td>
-    <td></td>
+    <td><span class="label label-green">LECTURE</span> Non Traditional Tech Careers Panel & More Machine Learning </td>
+    <td><a href="https://docs.google.com/presentation/d/1bN4vcONOX07U1PKEleT-75Hinagaj65xC6O0KHrHzTQ/edit?usp=sharing">Machine Learning Algorithms Slides</a></td>
   </tr>
   <tr>
     <td>Wed 11/12:</td>
