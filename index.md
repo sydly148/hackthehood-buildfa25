@@ -184,7 +184,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Mon 11/10:</td>
     <td><span class="label label-green">LECTURE</span> Non Traditional Tech Careers Panel & More Machine Learning </td>
-    <td><a href="https://docs.google.com/presentation/d/1bN4vcONOX07U1PKEleT-75Hinagaj65xC6O0KHrHzTQ/edit?usp=sharing">Machine Learning Algorithms Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1bN4vcONOX07U1PKEleT-75Hinagaj65xC6O0KHrHzTQ/edit?usp=sharing">Machine Learning Algorithms Slides</a>, <a href="https://www.youtube.com/watch?v=7eh4d6sabA0">Python Machine Learning Tutorial YouTube Video</a></td>
   </tr>
   <tr>
     <td>Wed 11/12:</td>
