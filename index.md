@@ -188,12 +188,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
   <tr>
     <td>Wed 11/12:</td>
-    <td><span class="label label-green">LECTURE</span> Large Language Models & Ethics in AI + Learning Lab: Comparing AI Tools </td>
-    <td><a href="https://create.kahoot.it/details/33c0a7d5-9802-4310-928d-80644c684cf5">Kahoot</a>, <a href="https://docs.google.com/presentation/d/1zk5eD2lOibxaCQmugZUQK3eVRmTp4nvT8FA-F3izFRQ/edit?usp=sharing">Artificial Intelligence Slides</a>, <a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a>, <a href="https://colab.research.google.com/drive/1Kd0AuVzhumqAkNEKD3d2D4jftQIyOmLc?usp=sharing">Learning Lab: Comparing AI Tools</a></td>
+    <td><span class="label label-green">LECTURE</span> Machine Learning Algorithm Selection and Testing + Learning Lab: Teach Me How to Predict II </td>
+    <td><a href="https://www.youtube.com/watch?v=7eh4d6sabA0">Python Machine Learning Tutorial YouTube Video</a>, <a href="https://docs.google.com/presentation/d/1-qXYPli2k3P-TEMNrRppwWGNi0Yp9T4EYjdABiox8XE/edit?usp=sharing">Machine Learning Algorithms Revisited Slides</a>, <a href="https://colab.research.google.com/drive/1KoBX8SmXnvayoMjBTQnyN6-6GsRL17Tg?usp=sharing">Learning Lab: Teach Me How to Predict II</a></td>
   </tr>
   <tr>
     <td>Thurs 11/13 or Sat 11/15:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Spotify Music Recommendations </td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Teach Me How to Predict III </td>
     <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
   </tr>
 </table>
