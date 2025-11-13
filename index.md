@@ -194,7 +194,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   <tr>
     <td>Thurs 11/13 or Sat 11/15:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Teach Me How to Predict III </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://colab.research.google.com/drive/17vQ4PXePbwYAK7__3oiQN26A1cYS7Ljh?usp=sharing">Teach Me How to Predict III Colab</a></td>
   </tr>
 </table>
 
