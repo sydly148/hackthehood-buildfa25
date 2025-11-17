@@ -54,13 +54,13 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 7 Announcements
+## Week 8 Announcements
 ### Assignments Due:
-- Submit your Week 6 Tiger Teams Assignment to Google Classroom!
-- Submit your Lab 7 to Google Classroom!
+- Submit your Week 7 Tiger Teams Assignment to Google Classroom!
+- Submit any unfinished assignments to Google Classroom!
 ### Reminders: 
 - Fill out the [RSVP Form](https://docs.google.com/forms/d/e/1FAIpQLScNhIlPylSc-EAcCSFEview3QPwzTKBMkZLloJ33-wdtKQ5lQ/viewform?usp=header) for the field trip on **Wednesday, November 19th**!
-- Fill out the career panel post-survey!
+- Async Tiger Teams start **next week, Monday, November 24th**!
 
   
 ---
@@ -202,8 +202,8 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
 <table>
   <tr>
     <td>Mon 11/17:</td>
-    <td><span class="label label-green">LECTURE</span> Catch Up </td>
-    <td></td>
+    <td><span class="label label-green">LECTURE</span> AI Ethics and Bias + Catch Up </td>
+    <td<a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a>></td>
   </tr>
   <tr>
     <td>Wed 11/19:</td>
