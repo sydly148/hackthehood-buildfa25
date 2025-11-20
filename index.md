@@ -217,7 +217,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 9
+### Week 9 (TBD)
 <table>
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
@@ -226,7 +226,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 10
+### Week 10 (TBD)
 <table>
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
@@ -235,7 +235,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 11
+### Week 11 (TBD)
 <table>
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
@@ -244,7 +244,7 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 12
+### Week 12 (TBD)
 <table>
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
