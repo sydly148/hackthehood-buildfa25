@@ -198,12 +198,12 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-### Week 8 (TBD)
+### Week 8
 <table>
   <tr>
     <td>Mon 11/17:</td>
     <td><span class="label label-green">LECTURE</span> AI Ethics and Bias + Catch Up </td>
-    <td<a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a>></td>
+    <td><a href="https://docs.google.com/presentation/d/1da9kgyP9Qexyl1H4OsUpRSVey8UkbQXS-MUP5ya6FgQ/edit?usp=sharing">AI Ethics and Bias Slides</a></td>
   </tr>
   <tr>
     <td>Wed 11/19:</td>
