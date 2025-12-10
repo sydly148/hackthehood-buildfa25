@@ -54,11 +54,13 @@ Welcome to the course website for Hack the Hood's Build Program for Fall 2025. W
   </tr>
 </table>
 
-## Week 10 Announcements
+## Week 11 Announcements
 ### Assignments Due:
-- Submit your Final Project Week 2 Checkpoint by **Sunday, November 30th**!
+- Submit your Final Project Week 3 Checkpoint by **Sunday, December 14th**!
 ### Reminders: 
 - Async Tiger Teams start this week!
+- RSVP for graduation [here](https://luma.com/pupdz95m?tk=tHPxoQ)!
+- Fill out the **post-program survey** [here](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_78VwtJcQM3Srywm)!
 
   
 ---
